@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Recombinant DNA
+parent_type: CourseSection
 parent_uid: 824d49fe-ccb5-9688-5041-e7a7eca1b1fa
 title: Development of Recombinant DNA
 uid: 80ef79a7-dab2-b9c7-0a69-4b5b5192cc36

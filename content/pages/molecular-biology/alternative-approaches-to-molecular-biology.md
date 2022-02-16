@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Molecular Biology
+parent_type: CourseSection
 parent_uid: 0cf8a719-a58b-7f0e-6457-939f9b82d24d
 title: Alternative Approaches to Molecular Biology
 uid: 6de3012a-82fd-d2a9-25a8-3b85e01dba3d

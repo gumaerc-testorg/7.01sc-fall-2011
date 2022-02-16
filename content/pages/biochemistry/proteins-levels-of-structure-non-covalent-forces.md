@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Biochemistry
+parent_type: CourseSection
 parent_uid: 59c0ffb4-f444-c63f-f21a-576415d7231d
 title: Proteins, Levels of Structure, Non-Covalent Forces
 uid: 480f15d7-bdab-9947-028a-c0770af7091e

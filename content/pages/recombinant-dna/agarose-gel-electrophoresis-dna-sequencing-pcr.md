@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Recombinant DNA
+parent_type: CourseSection
 parent_uid: 824d49fe-ccb5-9688-5041-e7a7eca1b1fa
 title: Agarose Gel Electrophoresis, DNA Sequencing, PCR
 uid: fba42aaa-936f-9894-51b5-9a8798c9d7a0

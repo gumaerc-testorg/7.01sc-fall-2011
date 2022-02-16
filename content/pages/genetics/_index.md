@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Genetics
 uid: 2cd32ce3-922b-637b-26b8-13233170eb1c
 ---

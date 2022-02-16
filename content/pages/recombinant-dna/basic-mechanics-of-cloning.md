@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Recombinant DNA
+parent_type: CourseSection
 parent_uid: 824d49fe-ccb5-9688-5041-e7a7eca1b1fa
 title: 'Basic Mechanics of Cloning: Restriction Enzymes & Cloning Vectors'
 uid: 48a4a332-6cd9-0d0e-1436-d2c0b4637e30

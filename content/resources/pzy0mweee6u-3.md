@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/7-01sc-fundamentals-of-biology-fall-2011/2c0704069395c4810de530b96fcbe4c7_PzY0MWEEE6U.pdf
+file: /media/courses/7-01sc-fundamentals-of-biology-fall-2011/2c0704069395c4810de530b96fcbe4c7_PzY0MWEEE6U.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: 2c070406-9395-c481-0de5-30b96fcbe4c7

@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Genetics
+parent_type: CourseSection
 parent_uid: 2cd32ce3-922b-637b-26b8-13233170eb1c
 title: Pedigrees
 uid: 56e5ca78-5a28-8e6c-f93b-a1bb71306c8d

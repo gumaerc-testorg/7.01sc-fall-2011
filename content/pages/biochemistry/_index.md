@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Biochemistry
 uid: 59c0ffb4-f444-c63f-f21a-576415d7231d
 ---

@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Recombinant DNA
 uid: 824d49fe-ccb5-9688-5041-e7a7eca1b1fa
 ---
@@ -13,7 +15,7 @@ This unit will cover some basic recombinant DNA technologies, why they were deve
 
 During this unit, you will learn the steps involved in a basic cloning strategy. You will determine which restriction enzyme to use to create a desired piece of recombinant DNA, given specific DNA sequences. You will also learn the function of DNA ligase, understand how vectors are used, and learn how to construct a recombinant genomic DNA library. You will then demonstrate how to use a genomic library to identify a gene of interest, and how to clone the gene of interest by complementation of a mutant phenotype. Next, you will learn how a recombinant cDNA library is constructed, and how it is used to identify a gene of interest by the protein made. You will move on to learning about the uses of agarose gel electrophoresis to analyze DNA molecules, and learn the basic mechanism of DNA sequencing by the dideoxy chain termination method. Finally, you will learn about the polymerase chain reaction (PCR) method of amplifying DNA, and when to use this technique.
 
-By the end of this unit, you will understand some basic techniques of recombinant DNA technologies, and some of their applications. You will understand the differences between the techniques you have learned about, as well as their uses and their limitations. Your knowledge of recombinant DNA technologies will culminate in your understanding of the importance of [GenBank](http://www.ncbi.nlm.nih.gov/genbank/)®, the vast database containing the DNA sequence of the entire genomes for many different organisms, and understanding why this is useful.
+By the end of this unit, you will understand some basic techniques of recombinant DNA technologies, and some of their applications. You will understand the differences between the techniques you have learned about, as well as their uses and their limitations. Your knowledge of recombinant DNA technologies will culminate in your understanding of the importance of [GenBank](http://www.ncbi.nlm.nih.gov/genbank/){{< sup "®" >}}, the vast database containing the DNA sequence of the entire genomes for many different organisms, and understanding why this is useful.
 
 Looking for something specific in this course? The [Resource Index]({{< baseurl >}}/pages/resource-index) compiles links to most course resources in a single page.
 

@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Recombinant DNA
+parent_type: CourseSection
 parent_uid: 824d49fe-ccb5-9688-5041-e7a7eca1b1fa
 title: Constructing and Screening a Recombinant DNA Library
 uid: 52ce97d0-21cf-6f78-01e8-55ec0de2a3aa

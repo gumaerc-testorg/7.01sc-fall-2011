@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/7-01sc-fundamentals-of-biology-fall-2011/7da97161d503e135f4284ed92fdd8b61_SvjeCxVu2dI.srt
+file: /media/courses/7-01sc-fundamentals-of-biology-fall-2011/7da97161d503e135f4284ed92fdd8b61_SvjeCxVu2dI.srt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 7da97161-d503-e135-f428-4ed92fdd8b61
