@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '2987'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 optional_tab_title: ''
 optional_text: ''
 parent_title: Pedigrees
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '444'
 title: Human Genetics
 uid: 8c9adb4b-dfdc-8542-ab88-beebdde67252
 video_files:

@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 optional_tab_title: ''
 optional_text: ''
 parent_title: Agarose Gel Electrophoresis, DNA Sequencing, PCR
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Agarose Gel Electrophoresis, DNA Sequencing, PCR, Excerpt 1
 uid: cc68eeec-8d6f-6f78-b9ba-dda1de1ff5c8
 video_files:

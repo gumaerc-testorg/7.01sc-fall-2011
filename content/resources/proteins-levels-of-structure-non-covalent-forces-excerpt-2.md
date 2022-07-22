@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 optional_tab_title: ''
 optional_text: ''
 parent_title: Proteins, Levels of Structure, Non-Covalent Forces
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Proteins, Levels of Structure, Non-Covalent Forces, Excerpt 2
 uid: 485e2ea8-afcc-518f-5160-cb406dc5047b
 video_files:

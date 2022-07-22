@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Basic Mechanics of Cloning: Restriction Enzymes & Cloning Vectors'
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Basic Mechanisms of Cloning, Excerpt 3
 uid: 77fb560e-3cb5-3eaa-27e7-eba91c52b821
 video_files:

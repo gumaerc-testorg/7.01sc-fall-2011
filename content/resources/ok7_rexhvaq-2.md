@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/7-01sc-fundamentals-of-biology-fall-2011/d1142b502894afb994c32721ab4024c3_OK7_ReXhVaQ.srt
+file: /courses/7-01sc-fundamentals-of-biology-fall-2011/d1142b502894afb994c32721ab4024c3_OK7_ReXhVaQ.srt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
