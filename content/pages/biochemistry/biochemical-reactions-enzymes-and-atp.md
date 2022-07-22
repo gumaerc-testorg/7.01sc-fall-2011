@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Biochemistry
+parent_type: CourseSection
 parent_uid: 59c0ffb4-f444-c63f-f21a-576415d7231d
 title: Biochemical Reactions, Enzymes, and ATP
 uid: bd3cadf9-7b4d-db1e-b647-150dd3af6877

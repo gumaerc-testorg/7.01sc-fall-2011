@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Biochemistry
+parent_type: CourseSection
 parent_uid: 59c0ffb4-f444-c63f-f21a-576415d7231d
 title: Covalent Bonds, Hydrogen Bonds
 uid: 744f8f0d-6a1f-189b-b5d2-07ad8b5cc8f7

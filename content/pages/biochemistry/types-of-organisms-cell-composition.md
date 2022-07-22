@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Biochemistry
+parent_type: CourseSection
 parent_uid: 59c0ffb4-f444-c63f-f21a-576415d7231d
 title: Types of Organisms, Cell Composition
 uid: bc34ebcb-2d80-7a50-fe34-0b8778b4836e

@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Genetics
+parent_type: CourseSection
 parent_uid: 2cd32ce3-922b-637b-26b8-13233170eb1c
 title: Exam 3
 uid: 87a11a60-4039-cc5e-e616-1303df9f2adb

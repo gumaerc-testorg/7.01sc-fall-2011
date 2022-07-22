@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Recombinant DNA
+parent_type: CourseSection
 parent_uid: 824d49fe-ccb5-9688-5041-e7a7eca1b1fa
 title: cDNA Libraries and Expression Libraries
 uid: ea56404f-54a8-7d1d-4cf2-1c7a12786b51

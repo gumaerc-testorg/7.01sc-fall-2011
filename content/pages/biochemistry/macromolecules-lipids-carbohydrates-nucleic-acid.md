@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Biochemistry
+parent_type: CourseSection
 parent_uid: 59c0ffb4-f444-c63f-f21a-576415d7231d
 title: 'Macromolecules: Lipids, Carbohydrates, Nucleic Acid'
 uid: dbb23892-11b1-a4f7-596b-adacfbfc68bf

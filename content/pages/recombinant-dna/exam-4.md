@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Recombinant DNA
+parent_type: CourseSection
 parent_uid: 824d49fe-ccb5-9688-5041-e7a7eca1b1fa
 title: Exam 4
 uid: ed024195-afd9-3012-8dae-c1f0592fe634
