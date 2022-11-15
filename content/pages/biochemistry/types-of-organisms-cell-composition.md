@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This session will introduce the course and cover the basics of cell composition.
+  It will also introduce the different types of organisms and the basic differences
+  between them.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Biochemistry
@@ -9,7 +12,7 @@ title: Types of Organisms, Cell Composition
 uid: bc34ebcb-2d80-7a50-fe34-0b8778b4836e
 ---
 
-« [Previous]({{< baseurl >}}/pages/biochemistry) | [Next]({{< baseurl >}}/pages/biochemistry/covalent-bonds-hydrogen-bonds) »
+« {{% resource_link "59c0ffb4-f444-c63f-f21a-576415d7231d" "Previous" %}} | {{% resource_link "744f8f0d-6a1f-189b-b5d2-07ad8b5cc8f7" "Next" %}} »
 
 Session Overview
 ----------------
@@ -45,7 +48,7 @@ Session Activities
 
 Watch the lecture video excerpt
 
-*   [Types of Organisms, Cell Composition, Excerpt 1]({{< baseurl >}}/resources/types-of-organisms-cell-composition-excerpt-1)
+*   {{% resource_link "4daca363-0ee6-998d-cb2b-3e9b66699ee4" "Types of Organisms, Cell Composition, Excerpt 1" %}}
 
 Check Yourself
 --------------
@@ -62,7 +65,7 @@ Session Activities
 
 Watch the lecture video excerpt
 
-*   [Types of Organisms, Cell Composition, Excerpt 2]({{< baseurl >}}/resources/types-of-organisms-cell-composition-excerpt-2)
+*   {{% resource_link "a67b5de5-dedb-8583-74b0-69955a256820" "Types of Organisms, Cell Composition, Excerpt 2" %}}
 
 Check Yourself
 --------------
@@ -75,8 +78,8 @@ Session Activities
 
 ### Practice Problems
 
-*   [Problems (PDF)]({{< baseurl >}}/resources/mit7_01scf11_1-1prob)
-*   [Solutions (PDF)]({{< baseurl >}}/resources/mit7_01scf11_1-1sol)
+*   {{% resource_link "809cc567-d934-2d19-5b0d-cda47fcd3a87" "Problems (PDF)" %}}
+*   {{% resource_link "0cd79426-1aaf-33e3-f792-1965914829ce" "Solutions (PDF)" %}}
 
 Further Study
 -------------
@@ -93,4 +96,4 @@ Further Study
 *   [Plant, Animal, and Bacteria Cell Models](http://www.cellsalive.com/cells/3dcell.htm)
 *   [Cell Cams](http://www.cellsalive.com/cam0.htm)
 
-« [Previous]({{< baseurl >}}/pages/biochemistry) | [Next]({{< baseurl >}}/pages/biochemistry/covalent-bonds-hydrogen-bonds) »
+« {{% resource_link "59c0ffb4-f444-c63f-f21a-576415d7231d" "Previous" %}} | {{% resource_link "744f8f0d-6a1f-189b-b5d2-07ad8b5cc8f7" "Next" %}} »
