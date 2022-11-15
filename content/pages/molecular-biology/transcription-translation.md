@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This session will explain how the cell uses its DNA instructions to make
+  a RNA message, and the RNA message to make a protein.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Molecular Biology
@@ -9,7 +11,7 @@ title: Transcription, Translation
 uid: 5e1363df-9828-a8e6-52b1-b90916e83b46
 ---
 
-« [Previous]({{< baseurl >}}/pages/molecular-biology/dna-replication) | [Next]({{< baseurl >}}/pages/molecular-biology/alternative-approaches-to-molecular-biology) »
+« {{% resource_link "5d6487db-6d13-2ae2-f9e6-285a269f3404" "Previous" %}} | {{% resource_link "6de3012a-82fd-d2a9-25a8-3b85e01dba3d" "Next" %}} »
 
 Session Overview
 ----------------
@@ -46,13 +48,12 @@ Session Activities
 
 Watch the lecture video excerpt
 
-*   [Transcription and translation, Excerpt 1]({{< baseurl >}}/resources/transcription-and-translation-excerpt-1)
+*   {{% resource_link "88cf1c3f-ccb5-9957-e912-da7b8270c9c2" "Transcription and translation, Excerpt 1" %}}
 
 Check Yourself
 --------------
 
-##### Question 1
- {{< quiz_multiple_choice questionId="MCQ1" >}} In what direction is RNA polymerized? {{< quiz_choices >}} {{< quiz_choice isCorrect="false" >}}3 to 5{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}3' to 5'{{< /quiz_choice >}} {{< quiz_choice isCorrect="true" >}}5' to 3'{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}N to C{{< /quiz_choice >}} {{< /quiz_choices >}} {{< quiz_solution / >}} {{< /quiz_multiple_choice >}}
+// There was an extra comma at the end of multiList array. $( function($){ var quizMulti = { multiList: \[ { ques: "In what direction is RNA polymerized?", ans: "5' to 3'", ansSel: \["3' to 5'", "3 to 5", "N to C"\], ansInfo: "" }\] }; var options = { allRandom: false, Random: false, help: "", showHTML: false, animationType: 0, showWrongAns: true, title: "Concept test 1", }; $("#quizArea").jQuizMe(quizMulti, options); });
 
 Session Activities
 ------------------
@@ -61,7 +62,7 @@ Session Activities
 
 Watch the lecture video excerpt
 
-*   [Transcription and translation, Excerpt 2]({{< baseurl >}}/resources/transcription-and-translation-excerpt-2)
+*   {{% resource_link "f1885c2f-f301-334e-9cb9-d8f0d8169be4" "Transcription and translation, Excerpt 2" %}}
 
 Check Yourself
 --------------
@@ -80,12 +81,12 @@ Session Activities
 
 Watch the short video of Sera Thornton explaining a transcription and translation question that refers to Question 2 in the practice problems below.
 
-*   [Transcription and Translation]({{< baseurl >}}/resources/transcription-and-translation)
+*   {{% resource_link "97c544da-758b-2be3-ed06-7aa3901e28cb" "Transcription and Translation" %}}
 
 ### Practice Problems
 
-*   [Problems (PDF)]({{< baseurl >}}/resources/mit7_01scf11_2-3prob)
-*   [Solutions (PDF)]({{< baseurl >}}/resources/mit7_01scf11_2-3sol)
+*   {{% resource_link "901747a5-3de5-40dd-eec4-301678740aee" "Problems (PDF)" %}}
+*   {{% resource_link "32978b0d-1afb-90f5-579a-b12966f58e1c" "Solutions (PDF)" %}}
 
 Further Study
 -------------
@@ -99,4 +100,4 @@ Further Study
 *   [Translation Animation (Advanced)](http://www.dnalc.org/resources/3d/16-translation-advanced.html)
 *   [Triplet Code Animation](http://www.dnalc.org/resources/3d/10-triplet-code.html)
 
-« [Previous]({{< baseurl >}}/pages/molecular-biology/dna-replication) | [Next]({{< baseurl >}}/pages/molecular-biology/alternative-approaches-to-molecular-biology) »
+« {{% resource_link "5d6487db-6d13-2ae2-f9e6-285a269f3404" "Previous" %}} | {{% resource_link "6de3012a-82fd-d2a9-25a8-3b85e01dba3d" "Next" %}} »

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides information on the third exam of the course.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Genetics
@@ -9,7 +10,7 @@ title: Exam 3
 uid: 87a11a60-4039-cc5e-e616-1303df9f2adb
 ---
 
-« [Previous]({{< baseurl >}}/pages/genetics/biochemical-genetics) | [Next]({{< baseurl >}}/pages/recombinant-dna) »
+« {{% resource_link "4239d3cb-c2e6-6fa7-9750-7ed884c8c657" "Previous" %}} | {{% resource_link "824d49fe-ccb5-9688-5041-e7a7eca1b1fa" "Next" %}} »
 
 Session Overview
 ----------------
@@ -21,7 +22,7 @@ Check Yourself
 
 ### Exam and Solutions
 
-*   [Exam (PDF)]({{< baseurl >}}/resources/mit_7_01scf11_exam3)
-*   [Solutions (PDF)]({{< baseurl >}}/resources/mit_7_01scf11_exam3_sol)
+*   {{% resource_link "6feaadb5-9ef8-4248-bdd9-13076194580b" "Exam (PDF)" %}}
+*   {{% resource_link "6d518508-492c-d5ed-a610-e3c04253aa51" "Solutions (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/genetics/biochemical-genetics) | [Next]({{< baseurl >}}/pages/recombinant-dna) »
+« {{% resource_link "4239d3cb-c2e6-6fa7-9750-7ed884c8c657" "Previous" %}} | {{% resource_link "824d49fe-ccb5-9688-5041-e7a7eca1b1fa" "Next" %}} »

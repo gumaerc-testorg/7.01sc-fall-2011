@@ -1,12 +1,14 @@
 ---
 content_type: page
+description: This unit will cover some basic recombinant DNA technologies, why they
+  were developed, and how they are used today in many different scientific arenas.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Recombinant DNA
 uid: 824d49fe-ccb5-9688-5041-e7a7eca1b1fa
 ---
 
-« [Previous]({{< baseurl >}}/pages/genetics/exam-3) | [Next]({{< baseurl >}}/pages/recombinant-dna/development-of-recombinant-dna) »
+« {{% resource_link "87a11a60-4039-cc5e-e616-1303df9f2adb" "Previous" %}} | {{% resource_link "80ef79a7-dab2-b9c7-0a69-4b5b5192cc36" "Next" %}} »
 
 ![an image showing the steps of cloning in bacterial cells.]({{< resource_file cfe2c2f8-01de-e14d-dc32-1a03ee4878b3 >}})  
 An illustration depicting cloning using a plasmid containing LacZ (image attributed to "[The Science Creative Quarterly](http://www.scq.ubc.ca/)" and Jen Philpot).
@@ -17,6 +19,6 @@ During this unit, you will learn the steps involved in a basic cloning strategy.
 
 By the end of this unit, you will understand some basic techniques of recombinant DNA technologies, and some of their applications. You will understand the differences between the techniques you have learned about, as well as their uses and their limitations. Your knowledge of recombinant DNA technologies will culminate in your understanding of the importance of [GenBank](http://www.ncbi.nlm.nih.gov/genbank/){{< sup "®" >}}, the vast database containing the DNA sequence of the entire genomes for many different organisms, and understanding why this is useful.
 
-Looking for something specific in this course? The [Resource Index]({{< baseurl >}}/pages/resource-index) compiles links to most course resources in a single page.
+Looking for something specific in this course? The {{% resource_link "10adacb2-c3e4-e7b3-d1c2-dbe3458a39e9" "Resource Index" %}} compiles links to most course resources in a single page.
 
-« [Previous]({{< baseurl >}}/pages/genetics/exam-3) | [Next]({{< baseurl >}}/pages/recombinant-dna/development-of-recombinant-dna) »
+« {{% resource_link "87a11a60-4039-cc5e-e616-1303df9f2adb" "Previous" %}} | {{% resource_link "80ef79a7-dab2-b9c7-0a69-4b5b5192cc36" "Next" %}} »

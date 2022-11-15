@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This session will cover the background and assumptions that Mendel made
+  regarding the inheritance of particular traits, the hypotheses he developed, the
+  experiments he performed to test the hypotheses, and the conclusions he made. In
+  addition, how offspring acquire genes (and thus traits) from parents by inheriting
+  chromosomes, and how the movement of chromosomes during meiosis is related to Mendel's
+  rules of inheritance will be emphasized.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Genetics
@@ -8,98 +14,198 @@ parent_uid: 2cd32ce3-922b-637b-26b8-13233170eb1c
 title: Mendel's Laws
 uid: 17d9f692-5f70-69f8-8155-be10fa8fa862
 ---
-<p class="sc_nav">&laquo; <a class="sc_prev" href="./resolveuid/2cd32ce3922b637b26b813233170eb1c">Previous</a> | <a class="sc_next" href="./resolveuid/06e0b88b67159f8b06c3dbe3474bcaed">Next</a> &raquo;</p> <h2 class="subhead">Session Overview</h2> <table class="sc_overview">     <tbody>         <tr>             <td><img width="100" height="100" alt="Genetics_sess_1.jpg" src="./resolveuid/f2d1f5ce61d5ab005b5ea4e2f6151b8d" /></td>             <td><p>This session will cover the background and assumptions that Mendel made regarding the inheritance of particular traits, the hypotheses he developed, the experiments he performed to test the hypotheses, and the conclusions he made. In addition, how offspring acquire genes (and thus traits) from parents by inheriting chromosomes, and how the movement of chromosomes during meiosis is related to Mendel's rules of inheritance will be emphasized.</p>             <p><em>Learning Objectives</em></p>             <ul class="arrow">                 <li><em>To understand how experimentation resulted in Mendel's laws of inheritance.</em></li>                 <li><em>To accurately use common genetic terms.</em></li>                 <li><em>To predict the outcome of genetic crosses involving one, two or three unlinked genes.</em></li>                 <li><em>To design a genetic cross that can determine whether a trait is dominant or recessive.</em></li>                 <li><em>To design a genetic cross that can determine the genotype of an individual.</em></li>                 <li><em>To understand the relationship of meiosis to Mendelian inheritance and Punnett Squares.</em></li>             </ul></td>         </tr>     </tbody> </table> <h2 class="subhead">Session Activities</h2> <h3 class="subsubhead">Lecture Video</h3> <p>Watch the lecture video excerpt</p> <ul class="arrow">     <li>89658236mendel'slaws,excerpt144741078</li> </ul> <h2 class="subhead">Check Yourself</h2> <p>You are working with the following pea plants:</p> <ul>     <li>Plant 1: Purple flowers</li>     <li>Plant 2: Purple flowers</li>     <li>Plant 3: White flowers</li> </ul> <p>You set up three mating experiments using these plants and obtain the following results:</p> <div class="maintabletemplate"><table class="tablewidth75">     <thead>         <tr>             <th>&nbsp;</th>             <th colspan="2">Ratio of plants with following Phenotype</th>         </tr>     </thead>     <tbody>         <tr class="row">             <td><strong>Experiment</strong></td>             <td>Purple flowers</td>             <td>White flowers</td>         </tr>         <tr class="alt-row">             <td><strong>#1: P1 with P2</strong></td>             <td>100</td>             <td>0</td>         </tr>         <tr class="alt-row">             <td><strong>#2: P1 with P3</strong></td>             <td>100</td>             <td>0</td>         </tr>         <tr class="alt-row">             <td><strong>#3: P2 with P3</strong></td>             <td>50</td>             <td>50</td>         </tr>     </tbody> </table></div> <div id="quizArea">&nbsp;</div> <script type="text/javascript" src="/scripts/jquery-1.3.2.min.js"></script> <script type="text/javascript" src="/scripts/jQuizMe-uncompressed.js"></script> <script type="text/javascript">
-// There was an extra comma at the end of multiList array.
-$( function($){
-	var quizMulti = {
-    multiList: [
-	{
-        ques: "Which phenotype is dominant?",
-        ans: "Purple flowers",
-        ansSel: ["White flowers"],
-        ansInfo: "Experiment #2 demonstrates that purple flower color is dominant to white flower color."
-    },
-	{
-        ques: "What is the genotype of Plant 1 with respect to flower color?",
-        ans: 'PP <span style="display: none;">1</span>',
-        ansSel: ['Pp <span style="display: none;">2</span>', 'pp <span style="display: none;">3</span>'],
-        ansInfo: ""
-    },
-	{
-        ques: "What is the genotype of Plant 2 with respect to flower color?",
-        ans: 'Pp <span style="display: none;">2</span>',
-        ansSel: ['PP <span style="display: none;">1</span>', 'pp <span style="display: none;">3</span>'],
-        ansInfo: ""
-    },				
-	{
-        ques: "What is the genotype of Plant 3 with respect to flower color?",
-        ans: 'pp <span style="display: none;">3</span>',
-        ansSel: ['PP <span style="display: none;">1</span>', 'Pp <span style="display: none;">2</span>'],
-        ansInfo: ""
-    }]
-	};
-	var options = {
-		allRandom: false,
-		Random: false,
-		help: "",
-		showHTML: false,
-		animationType: 0,
-		showWrongAns: true,
-		title: "Concept test 1",	 
-};
-$("#quizArea").jQuizMe(quizMulti, options);
-});
-</script> <h2 class="subhead">Session Activities</h2> <h3 class="subsubhead">Lecture Video</h3> <p>Watch the lecture video excerpt</p> <ul class="arrow">     <li>40379289mendel'slaws,excerpt260097417</li> </ul> <h2 class="subhead">Check Yourself</h2> <p>You are studying two true-breeding varieties of plants. Flower size is controlled by the A gene and flower color is controlled by the B gene.</p> <p><strong>Parent 1</strong>: small yellow flowers <br /> <strong>Parent 2</strong>: large red flowers</p> <div id="quizArea2">&nbsp;</div> <script type="text/javascript" src="/scripts/jquery-1.3.2.min.js"></script> <script type="text/javascript" src="/scripts/jQuizMe-uncompressed.js"></script> <script type="text/javascript">
-// There was an extra comma at the end of multiList array.
-$( function($){
-	var quizMulti = {
-    multiList: [
-	{
-        ques: 'You cross the two true-breeding parental plants, and find that <strong>all</strong> the F1 progeny have small red flowers.<br /><br />Which of the following phenotypes are dominant?',
-        ans: "small red",
-        ansSel: ["large red", "large yellow", "small yellow"],
-        ansInfo: ""
-    },
-	{
-        ques: 'You cross the two true-breeding parental plants, and find that <strong>all</strong> the F1 progeny have small red flowers.<br /><br />What is the genotype of Parent 1 with respect to flower color and size? Use A and B for the dominant traits, a and b for the recessive traits.',
-        ans: 'AAbb <span style="display: none;">5</span>',
-        ansSel: ['AABB <span style="display: none;">4</span>', 'aaBB <span style="display: none;">6</span>', 'aabb <span style="display: none;">7</span>', 'AaBb <span style="display: none;">8</span>'],
-        ansInfo: ""
-    },
-	{
-        ques: 'You cross the two true-breeding parental plants, and find that <strong>all</strong> the F1 progeny have small red flowers.<br /><br />What is the genotype of Parent 2 with respect to flower color and size? Use A and B for the dominant traits, a and b for the recessive traits.',
-        ans: 'aaBB <span style="display: none;">6</span>',
-        ansSel: ['AABB <span style="display: none;">4</span>', 'AAbb <span style="display: none;">5</span>', 'aabb <span style="display: none;">7</span>', 'AaBb <span style="display: none;">8</span>'],
-        ansInfo: ""
-    },			
-	{
-        ques: 'You cross the two true-breeding parental plants, and find that <strong>all</strong> the F1 progeny have small red flowers.<br /><br />What is the genotype of F1 progeny with respect to flower color and size? Use A and B for the dominant traits, a and b for the recessive traits.',
-        ans: 'AaBb <span style="display: none;">8</span>',
-        ansSel: ['AABB <span style="display: none;">4</span>', 'AAbb <span style="display: none;">5</span>', 'aaBB <span style="display: none;">6</span>', 'aabb <span style="display: none;">7</span>'],
-        ansInfo: ""
-    },
-	{
-        ques: 'You cross an F1 plant with a true breeding plant that has large yellow flowers and obtain 1000 progeny. Assume that the two genes assort independently.<br /><br />The progeny from this cross could show how many different phenotypes?',
-        ans: "4",
-        ansSel: ["1", "2", "3", "5", "6"],
-        ansInfo: ""
-    },				
-	{
-        ques: 'You cross an F1 plant with a true breeding plant that has large yellow flowers and obtain 1000 progeny. Assume that the two genes assort independently.<br /><br />Of the 1600 progeny plants, approximately how many would be expected to have large yellow flowers?',
-        ans: "400",
-        ansSel: ["1600", "900", "300", "100"],
-        ansInfo: ""
-    }]
-	};
-	var options = {
-		allRandom: false,
-		Random: false,
-		help: "",
-		showHTML: false,
-		animationType: 0,
-		showWrongAns: true,
-		title: "Concept test 1",	 
-};
-$("#quizArea2").jQuizMe(quizMulti, options);
-});
-</script> <h2 class="subhead">Session Activities</h2> <h3 class="subsubhead">Practice Problems</h3> <ul class="arrow">     <li><a href="./resolveuid/cce7348418390c92229fe8d718f5763d">Problems (PDF)</a></li>     <li><a href="./resolveuid/edef496d9cc1b0e3b5c0e35aec29f6ac">Solutions (PDF)</a></li> </ul> <h2 class="subhead">Further Study</h2> <h3 class="subsubhead">Study Guides</h3> <ul class="arrow">     <li><a href="./resolveuid/13aaf4b79c5d93421a12040f3fad06de">Terms and definitions (PDF)</a></li> </ul> <h3 class="subsubhead">Suggested topics for further study in an introductory-level Biology textbook</h3> <ul class="arrow">     <li>Mendel's laws of inheritance</li>     <li>Common genetic terms</li>     <li>Genetic crosses</li>     <li>Punnett Squares</li>     <li>Meiosis, and its relationship to Mendelian inheritance and Punnett Squares.</li> </ul> <h3 class="subsubhead">Useful Links</h3> <ul class="arrow">     <li><a href="http://web.mit.edu/star/genetics/">StarGenetics - Mendelian Genetics Virtual Lab</a></li> </ul> <p>&nbsp;</p> <p class="sc_nav_bottom">&laquo; <a class="sc_prev" href="./resolveuid/2cd32ce3922b637b26b813233170eb1c">Previous</a> | <a class="sc_next" href="./resolveuid/06e0b88b67159f8b06c3dbe3474bcaed">Next</a> &raquo;</p>
+
+« {{% resource_link "2cd32ce3-922b-637b-26b8-13233170eb1c" "Previous" %}} | {{% resource_link "06e0b88b-6715-9f8b-06c3-dbe3474bcaed" "Next" %}} »
+
+Session Overview
+----------------
+
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Genetics_sess_1.jpg]({{< resource_file f2d1f5ce-61d5-ab00-5b5e-a4e2f6151b8d >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+This session will cover the background and assumptions that Mendel made regarding the inheritance of particular traits, the hypotheses he developed, the experiments he performed to test the hypotheses, and the conclusions he made. In addition, how offspring acquire genes (and thus traits) from parents by inheriting chromosomes, and how the movement of chromosomes during meiosis is related to Mendel's rules of inheritance will be emphasized.
+
+_Learning Objectives_
+
+*   _To understand how experimentation resulted in Mendel's laws of inheritance._
+*   _To accurately use common genetic terms._
+*   _To predict the outcome of genetic crosses involving one, two or three unlinked genes._
+*   _To design a genetic cross that can determine whether a trait is dominant or recessive._
+*   _To design a genetic cross that can determine the genotype of an individual._
+*   _To understand the relationship of meiosis to Mendelian inheritance and Punnett Squares._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
+
+Session Activities
+------------------
+
+### Lecture Video
+
+Watch the lecture video excerpt
+
+*   {{% resource_link "16cb495d-a058-6878-c5b4-1accef04fcb1" "Mendel's Laws, Excerpt 1" %}}
+
+Check Yourself
+--------------
+
+You are working with the following pea plants:
+
+*   Plant 1: Purple flowers
+*   Plant 2: Purple flowers
+*   Plant 3: White flowers
+
+You set up three mating experiments using these plants and obtain the following results:
+
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ 
+{{< thclose >}}
+{{< thopen colspan="2" >}}
+Ratio of plants with following Phenotype
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Experiment**
+{{< tdclose >}}
+{{< tdopen >}}
+Purple flowers
+{{< tdclose >}}
+{{< tdopen >}}
+White flowers
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**#1: P1 with P2**
+{{< tdclose >}}
+{{< tdopen >}}
+100
+{{< tdclose >}}
+{{< tdopen >}}
+0
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**#2: P1 with P3**
+{{< tdclose >}}
+{{< tdopen >}}
+100
+{{< tdclose >}}
+{{< tdopen >}}
+0
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**#3: P2 with P3**
+{{< tdclose >}}
+{{< tdopen >}}
+50
+{{< tdclose >}}
+{{< tdopen >}}
+50
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
+
+##### Question 1
+ {{< quiz_multiple_choice questionId="MCQ1" >}} Which phenotype is dominant? {{< quiz_choices >}} {{< quiz_choice isCorrect="true" >}}Purple flowers{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}White flowers{{< /quiz_choice >}} {{< /quiz_choices >}} {{< quiz_solution >}}Experiment #2 demonstrates that purple flower color is dominant to white flower color.{{< /quiz_solution >}} {{< /quiz_multiple_choice >}}
+##### Question 2
+ {{< quiz_multiple_choice questionId="MCQ2" >}} What is the genotype of Plant 1 with respect to flower color? {{< quiz_choices >}} {{< quiz_choice isCorrect="true" >}}PP 1{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}Pp 2{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}pp 3{{< /quiz_choice >}} {{< /quiz_choices >}} {{< quiz_solution / >}} {{< /quiz_multiple_choice >}}
+##### Question 3
+ {{< quiz_multiple_choice questionId="MCQ3" >}} What is the genotype of Plant 2 with respect to flower color? {{< quiz_choices >}} {{< quiz_choice isCorrect="false" >}}PP 1{{< /quiz_choice >}} {{< quiz_choice isCorrect="true" >}}Pp 2{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}pp 3{{< /quiz_choice >}} {{< /quiz_choices >}} {{< quiz_solution / >}} {{< /quiz_multiple_choice >}}
+##### Question 4
+ {{< quiz_multiple_choice questionId="MCQ4" >}} What is the genotype of Plant 3 with respect to flower color? {{< quiz_choices >}} {{< quiz_choice isCorrect="false" >}}PP 1{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}Pp 2{{< /quiz_choice >}} {{< quiz_choice isCorrect="true" >}}pp 3{{< /quiz_choice >}} {{< /quiz_choices >}} {{< quiz_solution / >}} {{< /quiz_multiple_choice >}}
+
+Session Activities
+------------------
+
+### Lecture Video
+
+Watch the lecture video excerpt
+
+*   {{% resource_link "02fc6185-4795-af10-306e-d4e44d2ed4b4" "Mendel's Laws, Excerpt 2" %}}
+
+Check Yourself
+--------------
+
+You are studying two true-breeding varieties of plants. Flower size is controlled by the A gene and flower color is controlled by the B gene.
+
+**Parent 1**: small yellow flowers  
+**Parent 2**: large red flowers
+
+##### Question 1
+ {{< quiz_multiple_choice questionId="MCQ1" >}} You cross the two true-breeding parental plants, and find that **all** the F1 progeny have small red flowers.  
+  
+Which of the following phenotypes are dominant? {{< quiz_choices >}} {{< quiz_choice isCorrect="false" >}}large red{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}large yellow{{< /quiz_choice >}} {{< quiz_choice isCorrect="true" >}}small red{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}small yellow{{< /quiz_choice >}} {{< /quiz_choices >}} {{< quiz_solution / >}} {{< /quiz_multiple_choice >}}
+##### Question 2
+ {{< quiz_multiple_choice questionId="MCQ2" >}} You cross the two true-breeding parental plants, and find that **all** the F1 progeny have small red flowers.  
+  
+What is the genotype of Parent 1 with respect to flower color and size? Use A and B for the dominant traits, a and b for the recessive traits. {{< quiz_choices >}} {{< quiz_choice isCorrect="false" >}}AABB 4{{< /quiz_choice >}} {{< quiz_choice isCorrect="true" >}}AAbb 5{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}AaBb 8{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}aaBB 6{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}aabb 7{{< /quiz_choice >}} {{< /quiz_choices >}} {{< quiz_solution / >}} {{< /quiz_multiple_choice >}}
+##### Question 3
+ {{< quiz_multiple_choice questionId="MCQ3" >}} You cross the two true-breeding parental plants, and find that **all** the F1 progeny have small red flowers.  
+  
+What is the genotype of Parent 2 with respect to flower color and size? Use A and B for the dominant traits, a and b for the recessive traits. {{< quiz_choices >}} {{< quiz_choice isCorrect="false" >}}AABB 4{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}AAbb 5{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}AaBb 8{{< /quiz_choice >}} {{< quiz_choice isCorrect="true" >}}aaBB 6{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}aabb 7{{< /quiz_choice >}} {{< /quiz_choices >}} {{< quiz_solution / >}} {{< /quiz_multiple_choice >}}
+##### Question 4
+ {{< quiz_multiple_choice questionId="MCQ4" >}} You cross the two true-breeding parental plants, and find that **all** the F1 progeny have small red flowers.  
+  
+What is the genotype of F1 progeny with respect to flower color and size? Use A and B for the dominant traits, a and b for the recessive traits. {{< quiz_choices >}} {{< quiz_choice isCorrect="false" >}}AABB 4{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}AAbb 5{{< /quiz_choice >}} {{< quiz_choice isCorrect="true" >}}AaBb 8{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}aaBB 6{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}aabb 7{{< /quiz_choice >}} {{< /quiz_choices >}} {{< quiz_solution / >}} {{< /quiz_multiple_choice >}}
+##### Question 5
+ {{< quiz_multiple_choice questionId="MCQ5" >}} You cross an F1 plant with a true breeding plant that has large yellow flowers and obtain 1000 progeny. Assume that the two genes assort independently.  
+  
+The progeny from this cross could show how many different phenotypes? {{< quiz_choices >}} {{< quiz_choice isCorrect="false" >}}1{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}2{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}3{{< /quiz_choice >}} {{< quiz_choice isCorrect="true" >}}4{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}5{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}6{{< /quiz_choice >}} {{< /quiz_choices >}} {{< quiz_solution / >}} {{< /quiz_multiple_choice >}}
+##### Question 6
+ {{< quiz_multiple_choice questionId="MCQ6" >}} You cross an F1 plant with a true breeding plant that has large yellow flowers and obtain 1000 progeny. Assume that the two genes assort independently.  
+  
+Of the 1600 progeny plants, approximately how many would be expected to have large yellow flowers? {{< quiz_choices >}} {{< quiz_choice isCorrect="false" >}}100{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}1600{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}300{{< /quiz_choice >}} {{< quiz_choice isCorrect="true" >}}400{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}900{{< /quiz_choice >}} {{< /quiz_choices >}} {{< quiz_solution / >}} {{< /quiz_multiple_choice >}}
+
+Session Activities
+------------------
+
+### Practice Problems
+
+*   {{% resource_link "cce73484-1839-0c92-229f-e8d718f5763d" "Problems (PDF)" %}}
+*   {{% resource_link "edef496d-9cc1-b0e3-b5c0-e35aec29f6ac" "Solutions (PDF)" %}}
+
+Further Study
+-------------
+
+### Study Guides
+
+*   {{% resource_link "13aaf4b7-9c5d-9342-1a12-040f3fad06de" "Terms and definitions (PDF)" %}}
+
+### Suggested topics for further study in an introductory-level Biology textbook
+
+*   Mendel's laws of inheritance
+*   Common genetic terms
+*   Genetic crosses
+*   Punnett Squares
+*   Meiosis, and its relationship to Mendelian inheritance and Punnett Squares.
+
+### Useful Links
+
+*   [StarGenetics - Mendelian Genetics Virtual Lab](http://web.mit.edu/star/genetics/)
+
+« {{% resource_link "2cd32ce3-922b-637b-26b8-13233170eb1c" "Previous" %}} | {{% resource_link "06e0b88b-6715-9f8b-06c3-dbe3474bcaed" "Next" %}} »
