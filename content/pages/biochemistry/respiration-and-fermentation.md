@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This session will outline the cellular mechanisms for harvesting energy
+  from glucose and related sugars. It will briefly outline glycolysis as a mechanism
+  to generate ATP and discuss the fate of the pyruvate produced in glycolysis under
+  anaerobic and aerobic conditions.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Biochemistry
@@ -9,7 +13,7 @@ title: Glycolysis, Respiration, and Fermentation
 uid: 3998b78c-9a61-3c82-442f-d3aae9f91274
 ---
 
-« [Previous]({{< baseurl >}}/pages/biochemistry/biochemical-reactions-enzymes-and-atp) | [Next]({{< baseurl >}}/pages/biochemistry/chemiosmotic-principle-photosynthesis) »
+« {{% resource_link "bd3cadf9-7b4d-db1e-b647-150dd3af6877" "Previous" %}} | {{% resource_link "21ec09e3-3607-ce4c-8530-a4a4a138a48f" "Next" %}} »
 
 Session Overview
 ----------------
@@ -46,13 +50,13 @@ Session Activities
 
 Watch the lecture video excerpt
 
-*   [Glycolysis, Respiration, and Fermentation]({{< baseurl >}}/resources/glycolysis-respiration-and-fermentation)
+*   {{% resource_link "1d8210e7-a1b8-aa97-0494-024af923ff1d" "Glycolysis, Respiration, and Fermentation" %}}
 
 Check Yourself
 --------------
 
 ##### Question 1
- {{< quiz_multiple_choice questionId="MCQ1" >}} In the process of glycolysis, one glucose molecule is oxidized to form 2 pyruvates and which of the following? {{< quiz_choices >}} {{< quiz_choice isCorrect="false" >}}2 ADP{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}2 ATP{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}2 NAD<sup>+</sup>{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}2 NADH{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}Oxygen{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}both 2 NAD<sup>+</sup> and 2 ATP{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}both 2 NADH and 2 ADP{{< /quiz_choice >}} {{< quiz_choice isCorrect="true" >}}both 2 NADH and 2 ATP{{< /quiz_choice >}} {{< /quiz_choices >}} {{< quiz_solution / >}} {{< /quiz_multiple_choice >}}
+ {{< quiz_multiple_choice questionId="MCQ1" >}} In the process of glycolysis, one glucose molecule is oxidized to form 2 pyruvates and which of the following? {{< quiz_choices >}} {{< quiz_choice isCorrect="false" >}}2 ADP{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}2 ATP{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}2 NADH{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}2 NAD{{< sup "\+" >}}{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}Oxygen{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}both 2 NADH and 2 ADP{{< /quiz_choice >}} {{< quiz_choice isCorrect="true" >}}both 2 NADH and 2 ATP{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}both 2 NAD{{< sup "\+" >}} and 2 ATP{{< /quiz_choice >}} {{< /quiz_choices >}} {{< quiz_solution / >}} {{< /quiz_multiple_choice >}}
 ##### Question 2
  {{< quiz_multiple_choice questionId="MCQ2" >}} In a yeast cell under anaerobic conditions, the NADH (from glycolysis) donates electrons to __________, which produces _________ additional ATP? {{< quiz_choices >}} {{< quiz_choice isCorrect="false" >}}ADP, two{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}Oxygen, two{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}Phosphorus, two{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}ethanol, two{{< /quiz_choice >}} {{< quiz_choice isCorrect="true" >}}none of these options{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}pyruvate, two{{< /quiz_choice >}} {{< /quiz_choices >}} {{< quiz_solution >}}In a yeast cell under anaerobic conditions, NADH donates electrons to pyruvate. Although this reaction does not produce any additional ATP, it regenerates the NAD<sup>+</sup> needed for subsequent rounds of glycolysis.{{< /quiz_solution >}} {{< /quiz_multiple_choice >}}
 ##### Question 3
@@ -63,8 +67,8 @@ Session Activities
 
 ### Practice Problems
 
-*   [Problems (PDF)]({{< baseurl >}}/resources/mit7_01scf11_1-6prob)
-*   [Solutions (PDF)]({{< baseurl >}}/resources/mit7_01scf11_1-6sol)
+*   {{% resource_link "92e94b83-a425-a5a1-ee88-e3fe029a5807" "Problems (PDF)" %}}
+*   {{% resource_link "6b5018b5-b59a-0b17-64fa-9f89404ea5bf" "Solutions (PDF)" %}}
 
 Further Study
 -------------
@@ -77,4 +81,4 @@ Further Study
 *   ["Cell Respiration" – Cellular Respiration Song](http://www.youtube.com/watch?v=3aZrkdzrd04)
 *   [The ATP Cycle](http://www.youtube.com/watch?v=AhuqXwvFv2E&list=UUE-DexCad-ctXVTE6OhZP8w&index=5&feature=plcp)
 
-« [Previous]({{< baseurl >}}/pages/biochemistry/biochemical-reactions-enzymes-and-atp) | [Next]({{< baseurl >}}/pages/biochemistry/chemiosmotic-principle-photosynthesis) »
+« {{% resource_link "bd3cadf9-7b4d-db1e-b647-150dd3af6877" "Previous" %}} | {{% resource_link "21ec09e3-3607-ce4c-8530-a4a4a138a48f" "Next" %}} »

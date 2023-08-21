@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides information on the second exam of the course.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Molecular Biology
@@ -9,7 +10,7 @@ title: Exam 2
 uid: 98cc6601-8736-3777-3cbf-aacbf1c527df
 ---
 
-« [Previous]({{< baseurl >}}/pages/molecular-biology/gene-regulation-and-the-lac-operon) | [Next]({{< baseurl >}}/pages/genetics) »
+« {{% resource_link "b312d8ee-70ad-db9a-2f22-34a16a004e3f" "Previous" %}} | {{% resource_link "2cd32ce3-922b-637b-26b8-13233170eb1c" "Next" %}} »
 
 Session Overview
 ----------------
@@ -21,7 +22,7 @@ Check Yourself
 
 ### Exam and Solutions
 
-*   [Exam (PDF)]({{< baseurl >}}/resources/mit7_01scf11_exam2)
-*   [Solutions (PDF)]({{< baseurl >}}/resources/mit7_01scf11_exam2_sol)
+*   {{% resource_link "0fd1358e-ddb7-e0b2-a582-a22d2dbb3efe" "Exam (PDF)" %}}
+*   {{% resource_link "7440ab80-be6b-c7db-e2d2-509d4d630a3f" "Solutions (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/molecular-biology/gene-regulation-and-the-lac-operon) | [Next]({{< baseurl >}}/pages/genetics) »
+« {{% resource_link "b312d8ee-70ad-db9a-2f22-34a16a004e3f" "Previous" %}} | {{% resource_link "2cd32ce3-922b-637b-26b8-13233170eb1c" "Next" %}} »

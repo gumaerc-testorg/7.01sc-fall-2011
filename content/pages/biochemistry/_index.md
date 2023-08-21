@@ -1,12 +1,14 @@
 ---
 content_type: page
+description: This unit introduces the course and covers the basics of biochemistry
+  and cell composition.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Biochemistry
 uid: 59c0ffb4-f444-c63f-f21a-576415d7231d
 ---
 
-« [Previous]({{< baseurl >}}/pages/syllabus/meet-the-tas) | [Next]({{< baseurl >}}/pages/biochemistry/types-of-organisms-cell-composition) »
+« {{% resource_link "31b32df7-381e-729e-4a9e-93597670dfd1" "Previous" %}} | {{% resource_link "bc34ebcb-2d80-7a50-fe34-0b8778b4836e" "Next" %}} »
 
 ![an illustration of the biochemical structures and molecules in a T cell receptor]({{< resource_file ccdb398a-9ee3-21f4-6aec-ad712971d832 >}})  
 An illustration showing the biochemical structures present in a T Cell Receptor (image by Michelle Mischke).
@@ -19,6 +21,6 @@ At the end of this unit, you will be familiar with the different levels of organ
 
 Finally, you will have a greater understanding of the reactions in cellular respiration and photosynthesis, when they occur, and why they are important. You will understand the relationships between cellular respiration and photosynthesis.
 
-Looking for something specific in this course? The [Resource Index]({{< baseurl >}}/pages/resource-index) compiles links to most course resources in a single page.
+Looking for something specific in this course? The {{% resource_link "10adacb2-c3e4-e7b3-d1c2-dbe3458a39e9" "Resource Index" %}} compiles links to most course resources in a single page.
 
-« [Previous]({{< baseurl >}}/pages/syllabus/meet-the-tas) | [Next]({{< baseurl >}}/pages/biochemistry/types-of-organisms-cell-composition) »
+« {{% resource_link "31b32df7-381e-729e-4a9e-93597670dfd1" "Previous" %}} | {{% resource_link "bc34ebcb-2d80-7a50-fe34-0b8778b4836e" "Next" %}} »

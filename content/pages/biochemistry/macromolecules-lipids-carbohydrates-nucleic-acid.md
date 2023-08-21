@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This session will introduce the general structure and function of the
+  biological macromolecules: lipids, carbohydrates, and nucleic acids.'
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Biochemistry
@@ -8,62 +10,108 @@ parent_uid: 59c0ffb4-f444-c63f-f21a-576415d7231d
 title: 'Macromolecules: Lipids, Carbohydrates, Nucleic Acid'
 uid: dbb23892-11b1-a4f7-596b-adacfbfc68bf
 ---
-<p class="sc_nav">&laquo; <a class="sc_prev" href="./resolveuid/744f8f0d6a1f189bb5d207ad8b5cc8f7">Previous</a> | <a class="sc_next" href="./resolveuid/480f15d7bdab9947028ac0770af7091e">Next</a> &raquo;</p> <h2 class="subhead">Session Overview</h2> <table class="sc_overview">     <tbody>         <tr>             <td><img src="./resolveuid/0886afe872b0b603d72dbea8cf140bd4" alt="Biochem_sess3.jpg" /></td>             <td><p>This session will introduce the general structure and function of the biological macromolecules: lipids, carbohydrates, and nucleic acids.</p>             <p><em>Learning Objectives </em></p>             <ul class="arrow">                 <li><em>To understand the general structure and properties of lipids and phospholipids and their function in the cell.</em></li>                 <li><em>To understand the general structure and properties of carbohydrates and their function in the cell.</em></li>                 <li><em>To understand the general structure and properties of nucleic acids and their function in the cell.</em></li>             </ul></td>         </tr>     </tbody> </table> <h2 class="subhead">Session Activities</h2> <h3 class="subsubhead">Lecture Video</h3> <p>Watch the lecture video excerpt</p> <ul class="arrow">     <li>94275647macromolecules:lipids,carbohydrates,nucleicacid,excerpt152372348</li> </ul> <h2 class="subhead">Check Yourself</h2> <div id="quizArea">&nbsp;</div> <script type="text/javascript" src="/scripts/jquery-1.3.2.min.js"></script> <script type="text/javascript" src="/scripts/jQuizMe-uncompressed.js"></script> <script type="text/javascript">
-// There was an extra comma at the end of multiList array.
-$( function($){
-	var quizMulti = {
-    multiList: [
-	{
-        ques: 'Which of the following statements is true for phospholipid molecules?<ol type="a"><li>The polar end of phospholipids would contain carbon and phosphorous and oxygen.</li><li>The non-polar end of phospholipids would contain almost exclusively carbon and hydrogen.</li><li>The polar end of phospholipids would form hydrogen bonds with water.</li><li>The non-polar end of phospholipids associate with the cytoplasm of the cell.</li></ol>',
-        ans: "a,b,c",
-        ansSel: ["a,b,c, and d", "b,c,d", "a,c"],
-        ansInfo: ""
-    },
-	{
-        ques: 'Which of the following statements is true for carbohydrate molecules? <ol type="a"><li>The general structure can abbreviated as (CH<sub>2</sub>O)n.</li><li>A disaccharide can be formed by a condensation reaction between two glucose molecules.</li><li>Carbohydrates can be used as an energy source for cells.</li><li>Carbohydrates can be used as a structural molecule.</li></ol>',
-        ans: "a,b,c, and d",
-        ansSel: ["a,b", "c,d", "b,c"],
-        ansInfo: ""
-    }]
-	};
-	var options = {
-		allRandom: false,
-		Random: false,
-		help: "",
-		showHTML: false,
-		animationType: 0,
-		showWrongAns: true,
-		title: "Concept test 1",	 
-};
-$("#quizArea").jQuizMe(quizMulti, options);
-});
-</script> <p>&nbsp;</p> <h2 class="subhead">Session Activities</h2> <h3 class="subsubhead">Lecture Video</h3> <p>Watch the lecture video excerpt</p> <ul class="arrow">     <li>45357373macromolecules:lipids,carbohydrates,nucleicacid,excerpt226291899</li> </ul> <h2 class="subhead">Check Yourself</h2> <div id="quizArea2">&nbsp;</div> <script type="text/javascript" src="/scripts/jquery-1.3.2.min.js"></script> <script type="text/javascript" src="/scripts/jQuizMe-uncompressed.js"></script> <script type="text/javascript">
-// There was an extra comma at the end of multiList array.
-$( function($){
-	var quizMulti = {
-    multiList: [
-	{
-        ques: "Nucleotides and nucleic acid polymers have a polarity with respect to their structure.  Which of the following would be attached to the 5’ carbon of the ribose of the first nucleotide in a polymer?",
-        ans: "A phosphate group",
-        ansSel: ["A hydroxyl group", "A nitrogenous base", "Another nucleotide"],
-        ansInfo: ""
-    },
-	{
-        ques: 'How do the monomers found in DNA differ from the monomers found in RNA? Choose all that apply. <ol type="a"><li>DNA incorporates four different nitrogenous bases, RNA incorporates three different nitrogenous bases.</li><li>Thymidine is found in DNA but not RNA.</li><li>There is a 3’ hydroxyl on the RNA monomer, but not on the DNA monomer.</li><li>There is a 2’ hydroxyl on the RNA monomer, but not on the DNA monomer.</li></ol>',
-        ans: "b, d",
-        ansSel: ["a, b", "c, d", "a, c"],
-        ansInfo: ""
-    }]
-	};
-	var options = {
-		allRandom: false,
-		Random: false,
-		help: "",
-		showHTML: false,
-		animationType: 0,
-		showWrongAns: true,
-		title: "Concept test 2",	 
-};
-$("#quizArea2").jQuizMe(quizMulti, options);
-});
-</script> <p>&nbsp;</p> <h2 class="subhead">Session Activities</h2> <h3 class="subsubhead">Help Session Video</h3> <p>Watch the short video of Nicole DeNisco explaining phospholipids, phosphate, and nucleic acids, that refers to Question 1 in the practice problems below.</p> <ul class="arrow">     <li>4797032lipids,carbohydrates,andnucleicacidspracticeproblem49733007</li> </ul> <h3 class="subsubhead">Practice Problems</h3> <ul class="arrow">     <li><a href="./resolveuid/41d1c1f850caeebb8ba7e32830c9da55">Problems (PDF)</a></li>     <li><a href="./resolveuid/a7768ab855fe720fdb5b53b5ee2a8855">Solutions (PDF)</a></li> </ul> <h2 class="subhead">Further Study</h2> <h3 class="subsubhead">Useful Links</h3> <ul class="arrow">     <li><a href="http://www.biology-pages.info/P/Phospholipids.html">Phospholipids</a></li>     <li><a href="https://www.youtube.com/watch?v=VGHD9e3yRIU">Lipids</a></li>     <li><a href="http://www.nobelprize.org/nobel_prizes/chemistry/laureates/2001/illpres/game.html">Chirality</a></li>     <li><a href="http://www.biology-pages.info/C/Carbohydrates.html">Carbohydrates</a></li>     <li><a href="https://www.biointeractive.org/classroom-resources/building-blocks-dna">Building Blocks of DNA</a></li>     <li><a href="https://www.biointeractive.org/classroom-resources/chargaffs-ratio">Chargaff's Ratio</a></li> </ul> <h3 class="subsubhead">&nbsp;</h3> <p>&nbsp;</p> <p class="sc_nav_bottom">&laquo; <a class="sc_prev" href="./resolveuid/744f8f0d6a1f189bb5d207ad8b5cc8f7">Previous</a> | <a class="sc_next" href="./resolveuid/480f15d7bdab9947028ac0770af7091e">Next</a> &raquo;</p>
+
+« {{% resource_link "744f8f0d-6a1f-189b-b5d2-07ad8b5cc8f7" "Previous" %}} | {{% resource_link "480f15d7-bdab-9947-028a-c0770af7091e" "Next" %}} »
+
+Session Overview
+----------------
+
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Biochem_sess3.jpg]({{< resource_file 0886afe8-72b0-b603-d72d-bea8cf140bd4 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+This session will introduce the general structure and function of the biological macromolecules: lipids, carbohydrates, and nucleic acids.
+
+_Learning Objectives_
+
+*   _To understand the general structure and properties of lipids and phospholipids and their function in the cell._
+*   _To understand the general structure and properties of carbohydrates and their function in the cell._
+*   _To understand the general structure and properties of nucleic acids and their function in the cell._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
+
+Session Activities
+------------------
+
+### Lecture Video
+
+Watch the lecture video excerpt
+
+*   {{% resource_link "96d0c6ac-1ee1-71e8-4661-e7115e9c84e8" "Macromolecules: Lipids, Carbohydrates, Nucleic Acid, Excerpt 1" %}}
+
+Check Yourself
+--------------
+
+##### Question 1
+ {{< quiz_multiple_choice questionId="MCQ1" >}} Which of the following statements is true for phospholipid molecules?
+
+1.  The polar end of phospholipids would contain carbon and phosphorous and oxygen.
+2.  The non-polar end of phospholipids would contain almost exclusively carbon and hydrogen.
+3.  The polar end of phospholipids would form hydrogen bonds with water.
+4.  The non-polar end of phospholipids associate with the cytoplasm of the cell. {{< quiz_choices >}} {{< quiz_choice isCorrect="true" >}}a,b,c{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}a,b,c, and d{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}a,c{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}b,c,d{{< /quiz_choice >}} {{< /quiz_choices >}} {{< quiz_solution / >}} {{< /quiz_multiple_choice >}}
+##### Question 2
+ {{< quiz_multiple_choice questionId="MCQ2" >}} Which of the following statements is true for carbohydrate molecules?
+
+1.  The general structure can abbreviated as (CH{{< sub "2" >}}O)n.
+2.  A disaccharide can be formed by a condensation reaction between two glucose molecules.
+3.  Carbohydrates can be used as an energy source for cells.
+4.  Carbohydrates can be used as a structural molecule. {{< quiz_choices >}} {{< quiz_choice isCorrect="false" >}}a,b{{< /quiz_choice >}} {{< quiz_choice isCorrect="true" >}}a,b,c, and d{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}b,c{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}c,d{{< /quiz_choice >}} {{< /quiz_choices >}} {{< quiz_solution / >}} {{< /quiz_multiple_choice >}}
+
+Session Activities
+------------------
+
+### Lecture Video
+
+Watch the lecture video excerpt
+
+*   {{% resource_link "d671697b-72ac-e3aa-aa36-16d2e6fd27ef" "Macromolecules: Lipids, Carbohydrates, Nucleic Acid, Excerpt 2" %}}
+
+Check Yourself
+--------------
+
+##### Question 1
+ {{< quiz_multiple_choice questionId="MCQ1" >}} Nucleotides and nucleic acid polymers have a polarity with respect to their structure. Which of the following would be attached to the 5’ carbon of the ribose of the first nucleotide in a polymer? {{< quiz_choices >}} {{< quiz_choice isCorrect="false" >}}A hydroxyl group{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}A nitrogenous base{{< /quiz_choice >}} {{< quiz_choice isCorrect="true" >}}A phosphate group{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}Another nucleotide{{< /quiz_choice >}} {{< /quiz_choices >}} {{< quiz_solution / >}} {{< /quiz_multiple_choice >}}
+##### Question 2
+ {{< quiz_multiple_choice questionId="MCQ2" >}} How do the monomers found in DNA differ from the monomers found in RNA? Choose all that apply.
+
+1.  DNA incorporates four different nitrogenous bases, RNA incorporates three different nitrogenous bases.
+2.  Thymidine is found in DNA but not RNA.
+3.  There is a 3’ hydroxyl on the RNA monomer, but not on the DNA monomer.
+4.  There is a 2’ hydroxyl on the RNA monomer, but not on the DNA monomer. {{< quiz_choices >}} {{< quiz_choice isCorrect="false" >}}a, b{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}a, c{{< /quiz_choice >}} {{< quiz_choice isCorrect="true" >}}b, d{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}c, d{{< /quiz_choice >}} {{< /quiz_choices >}} {{< quiz_solution / >}} {{< /quiz_multiple_choice >}}
+
+Session Activities
+------------------
+
+### Help Session Video
+
+Watch the short video of Nicole DeNisco explaining phospholipids, phosphate, and nucleic acids, that refers to Question 1 in the practice problems below.
+
+*   {{% resource_link "21fdc52d-7de4-9a5b-de0f-4466dfaf7320" "Lipids, Carbohydrates, and Nucleic Acids Practice Problem" %}}
+
+### Practice Problems
+
+*   {{% resource_link "41d1c1f8-50ca-eebb-8ba7-e32830c9da55" "Problems (PDF)" %}}
+*   {{% resource_link "a7768ab8-55fe-720f-db5b-53b5ee2a8855" "Solutions (PDF)" %}}
+
+Further Study
+-------------
+
+### Useful Links
+
+*   [Phospholipids](http://www.biology-pages.info/P/Phospholipids.html)
+*   [Lipids](https://www.youtube.com/watch?v=VGHD9e3yRIU)
+*   [Chirality](http://www.nobelprize.org/nobel_prizes/chemistry/laureates/2001/illpres/game.html)
+*   [Carbohydrates](http://www.biology-pages.info/C/Carbohydrates.html)
+*   [Building Blocks of DNA](https://www.biointeractive.org/classroom-resources/building-blocks-dna)
+*   [Chargaff's Ratio](https://www.biointeractive.org/classroom-resources/chargaffs-ratio)
+
+« {{% resource_link "744f8f0d-6a1f-189b-b5d2-07ad8b5cc8f7" "Previous" %}} | {{% resource_link "480f15d7-bdab-9947-028a-c0770af7091e" "Next" %}} »

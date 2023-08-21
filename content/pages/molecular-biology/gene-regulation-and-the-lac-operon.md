@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This session will briefly outline some general principles of gene regulation.
+  In addition, a specific example of gene regulation in bacteria will be presented
+  in detail.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Molecular Biology
@@ -9,7 +12,7 @@ title: Gene Regulation and the Lac Operon
 uid: b312d8ee-70ad-db9a-2f22-34a16a004e3f
 ---
 
-« [Previous]({{< baseurl >}}/pages/molecular-biology/alternative-approaches-to-molecular-biology) | [Next]({{< baseurl >}}/pages/molecular-biology/exam-2) »
+« {{% resource_link "6de3012a-82fd-d2a9-25a8-3b85e01dba3d" "Previous" %}} | {{% resource_link "98cc6601-8736-3777-3cbf-aacbf1c527df" "Next" %}} »
 
 Session Overview
 ----------------
@@ -45,7 +48,7 @@ Session Activities
 
 For this session, watch the first 30 minutes of the video lecture called "Gene Regulation" by Prof. Eric Lander recorded in 2004.
 
-*   [Gene Regulation]({{< baseurl >}}/resources/gene-regulation)
+*   {{% resource_link "60bd92e6-c2a5-53dc-664f-1259984d6785" "Gene Regulation" %}}
 
 Check Yourself
 --------------
@@ -62,12 +65,12 @@ Session Activities
 
 Watch the short video of Sera Thornton explaining the lac operon.
 
-*   [The lac operon]({{< baseurl >}}/resources/the-lac-operon)
+*   {{% resource_link "a61b8640-d2af-9064-4caf-252ce125e710" "The lac operon" %}}
 
 ### Practice Problems
 
-*   [Problems (PDF)]({{< baseurl >}}/resources/mit7_01scf11_2-5prob)
-*   [Solutions (PDF)]({{< baseurl >}}/resources/mit7_01scf11_2-5sol)
+*   {{% resource_link "a909c3e9-191e-87b1-3b82-f4797c3025b1" "Problems (PDF)" %}}
+*   {{% resource_link "005416e9-3ffe-6398-9cd5-55aab605a37b" "Solutions (PDF)" %}}
 
 Further Study
 -------------
@@ -83,6 +86,6 @@ Further Study
 
 ### Study Guides
 
-*   [Diagram of lac operon (PDF)]({{< baseurl >}}/resources/mit7_01scf11_2-5diagram)
+*   {{% resource_link "a13c62cd-3023-2e7b-4e6f-42d9b10fddcf" "Diagram of lac operon (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/molecular-biology/alternative-approaches-to-molecular-biology) | [Next]({{< baseurl >}}/pages/molecular-biology/exam-2) »
+« {{% resource_link "6de3012a-82fd-d2a9-25a8-3b85e01dba3d" "Previous" %}} | {{% resource_link "98cc6601-8736-3777-3cbf-aacbf1c527df" "Next" %}} »

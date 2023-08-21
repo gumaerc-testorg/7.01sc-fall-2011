@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides biographical information on the instructors of
+  the course.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Syllabus
@@ -9,7 +11,7 @@ title: Meet the Instructors
 uid: 94075d21-fac8-2243-1255-482464d464cb
 ---
 
-« [Previous]({{< baseurl >}}/pages/syllabus) | [Next]({{< baseurl >}}/pages/syllabus/meet-the-tas) »
+« {{% resource_link "09c1cc17-39ee-dda7-9e91-7363d9dc19be" "Previous" %}} | {{% resource_link "31b32df7-381e-729e-4a9e-93597670dfd1" "Next" %}} »
 
 Eric Lander
 -----------
@@ -60,4 +62,4 @@ Michelle Mischke
 
 Dr. Michelle Mischke is Technical Instructor in the Department of Biology at MIT. She has been an instructor for all three versions of the Introductory Biology courses at MIT. Dr. Mischke worked closely with MIT OpenCourseWare on developing this OCW Scholar website.
 
-« [Previous]({{< baseurl >}}/pages/syllabus) | [Next]({{< baseurl >}}/pages/syllabus/meet-the-tas) »
+« {{% resource_link "09c1cc17-39ee-dda7-9e91-7363d9dc19be" "Previous" %}} | {{% resource_link "31b32df7-381e-729e-4a9e-93597670dfd1" "Next" %}} »

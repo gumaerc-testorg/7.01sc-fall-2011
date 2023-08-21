@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides information on the first exam of the course.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Biochemistry
@@ -9,7 +10,7 @@ title: Exam 1
 uid: 1dea315f-4392-12b8-84ba-e05ff4797b1e
 ---
 
-« [Previous]({{< baseurl >}}/pages/biochemistry/chemiosmotic-principle-photosynthesis) | [Next]({{< baseurl >}}/pages/molecular-biology) »
+« {{% resource_link "21ec09e3-3607-ce4c-8530-a4a4a138a48f" "Previous" %}} | {{% resource_link "0cf8a719-a58b-7f0e-6457-939f9b82d24d" "Next" %}} »
 
 Session Overview
 ----------------
@@ -21,7 +22,7 @@ Check Yourself
 
 ### Exam and Solutions
 
-*   [Exam (PDF)]({{< baseurl >}}/resources/mit7_01scf11_exam1)
-*   [Solutions (PDF)]({{< baseurl >}}/resources/mit7_01scf11_exam1_sol)
+*   {{% resource_link "7a9390d4-36e6-ba03-6961-1c8b64522441" "Exam (PDF)" %}}
+*   {{% resource_link "7907dbf2-3243-cc92-4afb-6150c76bf5d5" "Solutions (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/biochemistry/chemiosmotic-principle-photosynthesis) | [Next]({{< baseurl >}}/pages/molecular-biology) »
+« {{% resource_link "21ec09e3-3607-ce4c-8530-a4a4a138a48f" "Previous" %}} | {{% resource_link "0cf8a719-a58b-7f0e-6457-939f9b82d24d" "Next" %}} »
