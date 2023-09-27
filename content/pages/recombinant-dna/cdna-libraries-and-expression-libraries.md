@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This session will review how to make a recombinant cDNA library and how
+  to use this library to find a specific gene. This session will outline the differences
+  between a genomic and a cDNA library, and discuss how to use a cDNA library to clone
+  a gene of interest.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Recombinant DNA
@@ -9,7 +13,7 @@ title: cDNA Libraries and Expression Libraries
 uid: ea56404f-54a8-7d1d-4cf2-1c7a12786b51
 ---
 
-« [Previous]({{< baseurl >}}/pages/recombinant-dna/constructing-and-screening-a-recombinant-dna-library) | [Next]({{< baseurl >}}/pages/recombinant-dna/agarose-gel-electrophoresis-dna-sequencing-pcr) »
+« {{% resource_link "52ce97d0-21cf-6f78-01e8-55ec0de2a3aa" "Previous" %}} | {{% resource_link "fba42aaa-936f-9894-51b5-9a8798c9d7a0" "Next" %}} »
 
 Session Overview
 ----------------
@@ -43,7 +47,7 @@ Session Activities
 
 Watch the lecture video excerpt
 
-*   [cDNA Libraries and Expression Libraries]({{< baseurl >}}/resources/cdna-libraries-and-expression-libraries)
+*   {{% resource_link "b0808b85-12ed-9436-a3ef-b4bb7e4f9e30" "cDNA Libraries and Expression Libraries" %}}
 
 Check Yourself
 --------------
@@ -62,12 +66,12 @@ Session Activities
 
 Watch the short video of Robert Dorkin explaining transformation and protein expression.
 
-*   [Transformation and Protein Expression]({{< baseurl >}}/resources/transformation-and-protein-expression)
+*   {{% resource_link "be5fb4b7-8c03-4b3f-b853-d41d95a91c07" "Transformation and Protein Expression" %}}
 
 ### Practice Problems
 
-*   [Problems (PDF)]({{< baseurl >}}/resources/mit7_01scf11_4-4prob)
-*   [Solutions (PDF)]({{< baseurl >}}/resources/mit7_01scf11_4-4sol)
+*   {{% resource_link "b18b00b5-2f02-5971-4235-1020c248513b" "Problems (PDF)" %}}
+*   {{% resource_link "04ca1357-4f83-a54e-3fd7-4fc5b9cabbc1" "Solutions (PDF)" %}}
 
 Further Study
 -------------
@@ -77,4 +81,4 @@ Further Study
 *   [Isolation and use of cDNA clones](http://www-users.med.cornell.edu/~jawagne/cDNA_cloning.html)
 *   [Techniques of Molecular Biology](https://www.ncbi.nlm.nih.gov/pubmed/8375801)
 
-« [Previous]({{< baseurl >}}/pages/recombinant-dna/constructing-and-screening-a-recombinant-dna-library) | [Next]({{< baseurl >}}/pages/recombinant-dna/agarose-gel-electrophoresis-dna-sequencing-pcr) »
+« {{% resource_link "52ce97d0-21cf-6f78-01e8-55ec0de2a3aa" "Previous" %}} | {{% resource_link "fba42aaa-936f-9894-51b5-9a8798c9d7a0" "Next" %}} »

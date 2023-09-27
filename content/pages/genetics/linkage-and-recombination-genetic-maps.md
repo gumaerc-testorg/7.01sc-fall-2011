@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This session will explain why inheritance does not always follow Mendel's
+  rules, or the rules predicted for the chromosome theory of inheritance.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Genetics
@@ -9,7 +11,7 @@ title: Linkage and Recombination, Genetic Maps
 uid: 06e0b88b-6715-9f8b-06c3-dbe3474bcaed
 ---
 
-« [Previous]({{< baseurl >}}/pages/genetics/mendels-laws) | [Next]({{< baseurl >}}/pages/genetics/pedigrees) »
+« {{% resource_link "17d9f692-5f70-69f8-8155-be10fa8fa862" "Previous" %}} | {{% resource_link "56e5ca78-5a28-8e6c-f93b-a1bb71306c8d" "Next" %}} »
 
 Session Overview
 ----------------
@@ -46,7 +48,7 @@ Session Activities
 
 Watch the lecture video
 
-*   [Linkage and Recombination, Genetic maps]({{< baseurl >}}/resources/linkage-and-recombination-genetic-maps)
+*   {{% resource_link "e15e2473-ef1b-45a9-b38b-8e3bf649ce56" "Linkage and Recombination, Genetic maps" %}}
 
 Check Yourself
 --------------
@@ -63,8 +65,8 @@ Session Activities
 
 ### Practice Problems
 
-*   [Problems (PDF)]({{< baseurl >}}/resources/mit7_01scf11_3-2prob1)
-*   [Solutions (PDF)]({{< baseurl >}}/resources/mit7_01scf11_3-2sol1)
+*   {{% resource_link "22ac543d-6d36-a154-b6bd-6fbe7834f832" "Problems (PDF)" %}}
+*   {{% resource_link "924aa1b0-04f8-64ee-73b9-a1af6fb479b9" "Solutions (PDF)" %}}
 
 Further Study
 -------------
@@ -84,4 +86,4 @@ Further Study
 *   [How Cells Divide](http://www.pbs.org/wgbh/nova/body/how-cells-divide.html)
 *   [Dihybrid Crosses and Linked Genes](http://www.youtube.com/watch?v=1_lTyzGTnho&feature=mfu_in_order&list=UL)
 
-« [Previous]({{< baseurl >}}/pages/genetics/mendels-laws) | [Next]({{< baseurl >}}/pages/genetics/pedigrees) »
+« {{% resource_link "17d9f692-5f70-69f8-8155-be10fa8fa862" "Previous" %}} | {{% resource_link "56e5ca78-5a28-8e6c-f93b-a1bb71306c8d" "Next" %}} »

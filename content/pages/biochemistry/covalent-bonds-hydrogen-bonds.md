@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This session will introduce the structure of biological molecules and
+  the molecular forces involved in the formation of these molecules.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Biochemistry
@@ -9,7 +11,7 @@ title: Covalent Bonds, Hydrogen Bonds
 uid: 744f8f0d-6a1f-189b-b5d2-07ad8b5cc8f7
 ---
 
-« [Previous]({{< baseurl >}}/pages/biochemistry/types-of-organisms-cell-composition) | [Next]({{< baseurl >}}/pages/biochemistry/macromolecules-lipids-carbohydrates-nucleic-acid) »
+« {{% resource_link "bc34ebcb-2d80-7a50-fe34-0b8778b4836e" "Previous" %}} | {{% resource_link "dbb23892-11b1-a4f7-596b-adacfbfc68bf" "Next" %}} »
 
 Session Overview
 ----------------
@@ -45,7 +47,7 @@ Session Activities
 
 Watch the lecture video excerpt
 
-*   [Covalent Bonds, Hydrogen Bonds]({{< baseurl >}}/resources/covalent-bonds-hydrogen-bonds)
+*   {{% resource_link "a63fc07a-bb74-c682-f945-72499694259e" "Covalent Bonds, Hydrogen Bonds" %}}
 
 Check Yourself
 --------------
@@ -62,12 +64,12 @@ Session Activities
 
 Watch the short video of Nicole DeNisco explaining covalent bonds, chirality, electronegativity, and hydrogen bonding, that refers to the practice problem below.
 
-*   [Covalent Bonds]({{< baseurl >}}/resources/covalent-bonds)
+*   {{% resource_link "ad1d90ff-ff6d-8b6b-67ae-64dbaa5723da" "Covalent Bonds" %}}
 
 ### Practice Problems
 
-*   [Problems (PDF)]({{< baseurl >}}/resources/mit7_01scf11_1-2prob)
-*   [Solutions (PDF)]({{< baseurl >}}/resources/mit7_01scf11_1-2sol)
+*   {{% resource_link "7b1fe7c4-6ccb-c104-f8a3-080310d14d5a" "Problems (PDF)" %}}
+*   {{% resource_link "97be7ab1-0307-d71a-289d-c44d32ecc650" "Solutions (PDF)" %}}
 
 Further Study
 -------------
@@ -87,4 +89,4 @@ Further Study
 *   [Green Basilisk Lizard](http://animals.nationalgeographic.com/animals/reptiles/green-basilisk-lizard/?source=A-to-Z)
 *   [Ice Water and Hot Water movies](http://www.chamotlabs.com/Samples.shtml)
 
-« [Previous]({{< baseurl >}}/pages/biochemistry/types-of-organisms-cell-composition) | [Next]({{< baseurl >}}/pages/biochemistry/macromolecules-lipids-carbohydrates-nucleic-acid) »
+« {{% resource_link "bc34ebcb-2d80-7a50-fe34-0b8778b4836e" "Previous" %}} | {{% resource_link "dbb23892-11b1-a4f7-596b-adacfbfc68bf" "Next" %}} »

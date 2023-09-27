@@ -1,12 +1,14 @@
 ---
 content_type: page
+description: This resource index gives users access to most of the course resources
+  in a single location.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Resource Index
 uid: 10adacb2-c3e4-e7b3-d1c2-dbe3458a39e9
 ---
 
-« [Previous]({{< baseurl >}}/pages/recombinant-dna/exam-4) »
+« {{% resource_link "ed024195-afd9-3012-8dae-c1f0592fe634" "Previous" %}} »
 
 This resource index gives users access to most of the course resources in a single location.
 
@@ -37,14 +39,14 @@ USEFUL LINKS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Types of Organisms, Cell Composition]({{< baseurl >}}/pages/biochemistry/types-of-organisms-cell-composition)
+{{% resource_link "bc34ebcb-2d80-7a50-fe34-0b8778b4836e" "Types of Organisms, Cell Composition" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Types of Organisms, Cell Composition, Excerpt 1]({{< baseurl >}}/resources/types-of-organisms-cell-composition-excerpt-1-1)
+{{% resource_link "802b38c0-f8ef-c022-2737-38df1d4e3231" "Types of Organisms, Cell Composition, Excerpt 1" %}}
 
-[Types of Organisms, Cell Composition, Excerpt 2]({{< baseurl >}}/resources/types-of-organisms-cell-composition-excerpt-2-1)
+{{% resource_link "33d45c00-f2ca-5d83-d0a6-ba68dd2751d3" "Types of Organisms, Cell Composition, Excerpt 2" %}}
 
 
 {{< tdclose >}}
@@ -54,9 +56,9 @@ None
 {{< tdopen >}}
 
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit7_01scf11_1-1prob)
+{{% resource_link "809cc567-d934-2d19-5b0d-cda47fcd3a87" "Problems (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit7_01scf11_1-1sol)
+{{% resource_link "0cd79426-1aaf-33e3-f792-1965914829ce" "Solutions (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -72,14 +74,14 @@ None
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Covalent Bonds, Hydrogen Bonds]({{< baseurl >}}/pages/biochemistry/covalent-bonds-hydrogen-bonds)
+{{% resource_link "744f8f0d-6a1f-189b-b5d2-07ad8b5cc8f7" "Covalent Bonds, Hydrogen Bonds" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Covalent Bonds, Hydrogen Bonds]({{< baseurl >}}/resources/covalent-bonds-hydrogen-bonds-1)
+{{% resource_link "3dc50207-8825-cfb3-cc2c-a413a44d39a8" "Covalent Bonds, Hydrogen Bonds" %}}
 
-[Covalent Bonds]({{< baseurl >}}/resources/covalent-bonds-1)
+{{% resource_link "ab5b5297-881b-5c7e-eab2-32dbb3c74bce" "Covalent Bonds" %}}
 
 
 {{< tdclose >}}
@@ -89,9 +91,9 @@ None
 {{< tdopen >}}
 
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit7_01scf11_1-2prob)
+{{% resource_link "7b1fe7c4-6ccb-c104-f8a3-080310d14d5a" "Problems (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit7_01scf11_1-2sol)
+{{% resource_link "97be7ab1-0307-d71a-289d-c44d32ecc650" "Solutions (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -110,26 +112,26 @@ None
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Macromolecules: Lipids, Carbohydrates, Nucleic Acid]({{< baseurl >}}/pages/biochemistry/macromolecules-lipids-carbohydrates-nucleic-acid)
+{{% resource_link "dbb23892-11b1-a4f7-596b-adacfbfc68bf" "Macromolecules: Lipids, Carbohydrates, Nucleic Acid" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Macromolecules: Lipids, Carbohydrates, Nucleic Acid, Excerpt 1]({{< baseurl >}}/resources/macromolecules-lipids-carbohydrates-nucleic-acid-excerpt-1-1)
+{{% resource_link "b21ae68b-e2da-ee9d-f6f8-0d24c43b5595" "Macromolecules: Lipids, Carbohydrates, Nucleic Acid, Excerpt 1" %}}
 
-[Macromolecules: Lipids, Carbohydrates, Nucleic Acid, Excerpt 2]({{< baseurl >}}/resources/macromolecules-lipids-carbohydrates-nucleic-acid-excerpt-2-1)
+{{% resource_link "55940739-cc35-4a63-6919-8e5704ae032d" "Macromolecules: Lipids, Carbohydrates, Nucleic Acid, Excerpt 2" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lipids, Carbohydrates, and Nucleic Acids Practice Problem]({{< baseurl >}}/resources/lipids-carbohydrates-and-nucleic-acids-practice-problem-1)
+{{% resource_link "500ffe11-81bd-8453-fef4-2217de08b4bc" "Lipids, Carbohydrates, and Nucleic Acids Practice Problem" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit7_01scf11_1-3prob)
+{{% resource_link "41d1c1f8-50ca-eebb-8ba7-e32830c9da55" "Problems (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit7_01scf11_1-3sol)
+{{% resource_link "a7768ab8-55fe-720f-db5b-53b5ee2a8855" "Solutions (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -149,14 +151,14 @@ None
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Proteins, Levels of Structure, Non-Covalent Forces]({{< baseurl >}}/pages/biochemistry/proteins-levels-of-structure-non-covalent-forces)
+{{% resource_link "480f15d7-bdab-9947-028a-c0770af7091e" "Proteins, Levels of Structure, Non-Covalent Forces" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Proteins, Levels of Structure, Non-Covalent Forces, Excerpt 1]({{< baseurl >}}/resources/proteins-levels-of-structure-non-covalent-forces-excerpt-1-1)
+{{% resource_link "fb0ba409-442f-bb04-21f3-bdcc1f8b1abd" "Proteins, Levels of Structure, Non-Covalent Forces, Excerpt 1" %}}
 
-[Proteins, Levels of Structure, Non-Covalent Forces, Excerpt 2]({{< baseurl >}}/resources/proteins-levels-of-structure-non-covalent-forces-excerpt-2-1)
+{{% resource_link "89d56942-597a-b0dd-022e-ca589f8ef5fa" "Proteins, Levels of Structure, Non-Covalent Forces, Excerpt 2" %}}
 
 
 {{< tdclose >}}
@@ -166,9 +168,9 @@ None
 {{< tdopen >}}
 
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit7_01scf11_1-4prob)
+{{% resource_link "5e5e88ad-bc3c-016d-3f28-5f750b586537" "Problems (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit7_01scf11_1-4sol)
+{{% resource_link "ddfbc7c0-6d0e-db74-6e93-90c964757b71" "Solutions (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -186,10 +188,10 @@ None
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Biochemical Reactions, Enzymes, and ATP]({{< baseurl >}}/pages/biochemistry/biochemical-reactions-enzymes-and-atp)
+{{% resource_link "bd3cadf9-7b4d-db1e-b647-150dd3af6877" "Biochemical Reactions, Enzymes, and ATP" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Biochemical Reactions, Enzymes, and ATP]({{< baseurl >}}/resources/biochemical-reactions-enzymes-and-atp-1)
+{{% resource_link "68fc34e7-10ae-7370-23ac-2f48aa299868" "Biochemical Reactions, Enzymes, and ATP" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 None
@@ -197,9 +199,9 @@ None
 {{< tdopen >}}
 
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit7_01scf11_1-5prob)
+{{% resource_link "a61124da-1927-b71d-c733-26804a802b39" "Problems (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit7_01scf11_1-5sol)
+{{% resource_link "653bf5bd-ea89-11e0-e42e-998999d13cb9" "Solutions (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -216,10 +218,10 @@ None
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Respiration and Fermentation]({{< baseurl >}}/pages/biochemistry/respiration-and-fermentation)
+{{% resource_link "3998b78c-9a61-3c82-442f-d3aae9f91274" "Respiration and Fermentation" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Glycolysis, Respiration, and Fermentation]({{< baseurl >}}/resources/glycolysis-respiration-and-fermentation-1)
+{{% resource_link "2cba00d0-dea9-d240-0088-6b198bfa85a6" "Glycolysis, Respiration, and Fermentation" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 None
@@ -227,9 +229,9 @@ None
 {{< tdopen >}}
 
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit7_01scf11_1-6prob)
+{{% resource_link "92e94b83-a425-a5a1-ee88-e3fe029a5807" "Problems (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit7_01scf11_1-6sol)
+{{% resource_link "6b5018b5-b59a-0b17-64fa-9f89404ea5bf" "Solutions (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -248,10 +250,10 @@ None
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Chemiosmotic Principle, Photosynthesis]({{< baseurl >}}/pages/biochemistry/chemiosmotic-principle-photosynthesis)
+{{% resource_link "21ec09e3-3607-ce4c-8530-a4a4a138a48f" "Chemiosmotic Principle, Photosynthesis" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Photosynthesis]({{< baseurl >}}/resources/photosynthesis-1)
+{{% resource_link "846b0672-3d36-dabf-0009-3c4305cf4319" "Photosynthesis" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 None
@@ -259,9 +261,9 @@ None
 {{< tdopen >}}
 
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit7_01scf11_1-7prob)
+{{% resource_link "25f6bf69-6b75-c6ba-3f96-ad00dfed842b" "Problems (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit7_01scf11_1-7sol)
+{{% resource_link "20d10b90-2b67-d561-a1d2-bc360d674398" "Solutions (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -297,12 +299,12 @@ EXAM AND SOLUTIONS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Exam 1]({{< baseurl >}}/pages/biochemistry/exam-1)
+{{% resource_link "1dea315f-4392-12b8-84ba-e05ff4797b1e" "Exam 1" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Exam (PDF)]({{< baseurl >}}/resources/mit7_01scf11_exam1)
+{{% resource_link "7a9390d4-36e6-ba03-6961-1c8b64522441" "Exam (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit7_01scf11_exam1_sol)
+{{% resource_link "7907dbf2-3243-cc92-4afb-6150c76bf5d5" "Solutions (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -338,14 +340,14 @@ USEFUL LINKS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[DNA Structure, Classic Experiments]({{< baseurl >}}/pages/molecular-biology/dna-structure-classic-experiments)
+{{% resource_link "95026c63-e557-0d98-9ab2-ebdcc99b4dfd" "DNA Structure, Classic Experiments" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[DNA Structure and Classic experiments, Excerpt 1]({{< baseurl >}}/resources/dna-structure-and-classic-experiments-excerpt-1-1)
+{{% resource_link "2fc1c142-93cc-ebe4-38f1-3ca91ab14c73" "DNA Structure and Classic experiments, Excerpt 1" %}}
 
-[DNA Structure and Classic experiments, Excerpt 2]({{< baseurl >}}/resources/dna-structure-and-classic-experiments-excerpt-2-1)
+{{% resource_link "e7ff47e7-c3c6-2868-0590-76b8e141d30b" "DNA Structure and Classic experiments, Excerpt 2" %}}
 
 
 {{< tdclose >}}
@@ -355,9 +357,9 @@ USEFUL LINKS
 {{< tdopen >}}
 
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit7_01scf11_2-1prob1)
+{{% resource_link "20445ba4-4a66-4923-fd74-ae15e3133723" "Problems (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit7_01scf11_2-1sol1)
+{{% resource_link "8b297b77-2b66-d90d-b5d8-7b214ccdb97b" "Solutions (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -374,20 +376,20 @@ USEFUL LINKS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[DNA Replication]({{< baseurl >}}/pages/molecular-biology/dna-replication)
+{{% resource_link "5d6487db-6d13-2ae2-f9e6-285a269f3404" "DNA Replication" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[DNA Replication]({{< baseurl >}}/resources/dna-replication-1)
+{{% resource_link "86c772c3-e4e1-3617-910a-3cc0437bda28" "DNA Replication" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Explanation of 5' and 3', C terminus, and N terminus]({{< baseurl >}}/resources/explanation-of-5-and-3-c-terminus-and-n-terminus-1)
+{{% resource_link "f063ca70-fda4-2937-2e5f-b59697106c86" "Explanation of 5' and 3', C terminus, and N terminus" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit7_01scf11_2-2prob)
+{{% resource_link "d2cdbbbd-3edc-7495-1a83-787cbcc71f88" "Problems (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit7_01scf11_2-2sol)
+{{% resource_link "fce9be4a-d2d1-35ad-6519-68f967cf069b" "Solutions (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -403,26 +405,26 @@ USEFUL LINKS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Transcription, Translation]({{< baseurl >}}/pages/molecular-biology/transcription-translation)
+{{% resource_link "5e1363df-9828-a8e6-52b1-b90916e83b46" "Transcription, Translation" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Transcription and translation, Excerpt 1]({{< baseurl >}}/resources/transcription-and-translation-excerpt-1-1)
+{{% resource_link "978face2-8944-8121-e043-e30b83054ada" "Transcription and translation, Excerpt 1" %}}
 
-[Transcription and translation, Excerpt 2]({{< baseurl >}}/resources/transcription-and-translation-excerpt-2-1)
+{{% resource_link "dae409be-3536-1720-baf3-3e56fdb63fc6" "Transcription and translation, Excerpt 2" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Transcription and Translation]({{< baseurl >}}/resources/transcription-and-translation-1)
+{{% resource_link "f7cf69ac-9274-6a34-bb81-f84be45544b7" "Transcription and Translation" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit7_01scf11_2-3prob)
+{{% resource_link "901747a5-3de5-40dd-eec4-301678740aee" "Problems (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit7_01scf11_2-3sol)
+{{% resource_link "32978b0d-1afb-90f5-579a-b12966f58e1c" "Solutions (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -442,10 +444,10 @@ USEFUL LINKS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Alternative Approaches to Molecular Biology]({{< baseurl >}}/pages/molecular-biology/alternative-approaches-to-molecular-biology)
+{{% resource_link "6de3012a-82fd-d2a9-25a8-3b85e01dba3d" "Alternative Approaches to Molecular Biology" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Alternative Approaches to Molecular Biology]({{< baseurl >}}/resources/alternative-approaches-to-molecular-biology-1)
+{{% resource_link "8df03aac-c0d7-ab03-a516-b9d1b47fdd6f" "Alternative Approaches to Molecular Biology" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  None
@@ -453,9 +455,9 @@ USEFUL LINKS
 {{< tdopen >}}
 
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit7_01scf11_2-4prob)
+{{% resource_link "1e8ae573-cb4f-3035-af55-5f9c200af5dd" "Problems (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit7_01scf11_2-4sol)
+{{% resource_link "66339437-fecd-9fdc-19c5-16705430ed35" "Solutions (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -474,20 +476,20 @@ USEFUL LINKS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Gene Regulation and the Lac Operon]({{< baseurl >}}/pages/molecular-biology/gene-regulation-and-the-lac-operon)
+{{% resource_link "b312d8ee-70ad-db9a-2f22-34a16a004e3f" "Gene Regulation and the Lac Operon" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Gene Regulation]({{< baseurl >}}/resources/gene-regulation-1)
+{{% resource_link "f96c9b50-0e44-cec2-da32-52b28453457a" "Gene Regulation" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[The lac operon]({{< baseurl >}}/resources/the-lac-operon-1)
+{{% resource_link "bd7e6234-7f36-d11d-dea7-739cb792a9db" "The lac operon" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit7_01scf11_2-5prob)
+{{% resource_link "a909c3e9-191e-87b1-3b82-f4797c3025b1" "Problems (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit7_01scf11_2-5sol)
+{{% resource_link "005416e9-3ffe-6398-9cd5-55aab605a37b" "Solutions (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -521,12 +523,12 @@ EXAM AND SOLUTIONS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Exam 2]({{< baseurl >}}/pages/molecular-biology/exam-2)
+{{% resource_link "98cc6601-8736-3777-3cbf-aacbf1c527df" "Exam 2" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Exam (PDF)]({{< baseurl >}}/resources/mit7_01scf11_exam2)
+{{% resource_link "0fd1358e-ddb7-e0b2-a582-a22d2dbb3efe" "Exam (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit7_01scf11_exam2_sol)
+{{% resource_link "7440ab80-be6b-c7db-e2d2-509d4d630a3f" "Solutions (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -562,14 +564,14 @@ USEFUL LINKS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Mendel's Laws]({{< baseurl >}}/pages/genetics/mendels-laws)
+{{% resource_link "17d9f692-5f70-69f8-8155-be10fa8fa862" "Mendel's Laws" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Mendel's Laws, Excerpt 1]({{< baseurl >}}/resources/mendels-laws-excerpt-1-1)
+{{% resource_link "a957782e-3679-da2b-c18b-ecc7e87f4501" "Mendel's Laws, Excerpt 1" %}}
 
-[Mendel's Laws, Excerpt 2]({{< baseurl >}}/resources/mendels-laws-excerpt-2-1)
+{{% resource_link "68f393a9-7999-e025-4912-8d7d0dca5e59" "Mendel's Laws, Excerpt 2" %}}
 
 
 {{< tdclose >}}
@@ -579,9 +581,9 @@ USEFUL LINKS
 {{< tdopen >}}
 
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit7_01scf11_3-1prob1)
+{{% resource_link "cce73484-1839-0c92-229f-e8d718f5763d" "Problems (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit7_01scf11_3-1sol1)
+{{% resource_link "edef496d-9cc1-b0e3-b5c0-e35aec29f6ac" "Solutions (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -596,10 +598,10 @@ USEFUL LINKS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Linkage and Recombination, Genetic Maps]({{< baseurl >}}/pages/genetics/linkage-and-recombination-genetic-maps)
+{{% resource_link "06e0b88b-6715-9f8b-06c3-dbe3474bcaed" "Linkage and Recombination, Genetic Maps" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Linkage and Recombination, Genetic maps]({{< baseurl >}}/resources/linkage-and-recombination-genetic-maps-1)
+{{% resource_link "0bf92ac8-a7b3-c426-aa70-fe3745f53b45" "Linkage and Recombination, Genetic maps" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  None
@@ -607,9 +609,9 @@ USEFUL LINKS
 {{< tdopen >}}
 
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit7_01scf11_3-2prob1)
+{{% resource_link "22ac543d-6d36-a154-b6bd-6fbe7834f832" "Problems (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit7_01scf11_3-2sol1)
+{{% resource_link "924aa1b0-04f8-64ee-73b9-a1af6fb479b9" "Solutions (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -627,20 +629,20 @@ USEFUL LINKS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Pedigrees]({{< baseurl >}}/pages/genetics/pedigrees)
+{{% resource_link "56e5ca78-5a28-8e6c-f93b-a1bb71306c8d" "Pedigrees" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Human Genetics]({{< baseurl >}}/resources/human-genetics-2)
+{{% resource_link "d520b15d-1a40-9a29-fc81-b479bfb77031" "Human Genetics" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Pedigrees]({{< baseurl >}}/resources/pedigrees-1)
+{{% resource_link "e8d2e7f2-645d-2c5f-59f6-de9e20dcf80f" "Pedigrees" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit7_01scf11_3-3prob1)
+{{% resource_link "aab2c35a-40d3-7356-fdad-c9b9e5e23861" "Problems (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit7_01scf11_3-3sol1)
+{{% resource_link "fc9adae0-d860-c52c-de83-e97909f3951a" "Solutions (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -657,32 +659,32 @@ USEFUL LINKS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Biochemical Genetics]({{< baseurl >}}/pages/genetics/biochemical-genetics)
+{{% resource_link "4239d3cb-c2e6-6fa7-9750-7ed884c8c657" "Biochemical Genetics" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Genetics 3]({{< baseurl >}}/resources/genetics-3-1)
+{{% resource_link "01bc5487-b51a-1faf-b5da-71c8b0501991" "Genetics 3" %}}
 
-[Human Genetics]({{< baseurl >}}/resources/copy_of_human-genetics)
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-[Complementation]({{< baseurl >}}/resources/complementation-1)
-
-[Complementation (Part II)]({{< baseurl >}}/resources/complementation-part-ii-1)
+{{% resource_link "e4cd34d5-6f4f-73c3-4fdf-596146593900" "Human Genetics" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit7_01scf11_3-4prob1)
+{{% resource_link "6c221664-ab0d-b100-25d4-dc60cae9e4b7" "Complementation" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit7_01scf11_3-4sol1)
+{{% resource_link "3b409292-2159-782e-d61c-9fc7fadc662e" "Complementation (Part II)" %}}
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+{{% resource_link "dadce1d4-aaaf-d7e0-4a27-75c28362787b" "Problems (PDF)" %}}
+
+{{% resource_link "86234678-b1e7-ded9-e7f8-6b957c5a8bbb" "Solutions (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -717,12 +719,12 @@ EXAM AND SOLUTIONS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Exam 3]({{< baseurl >}}/pages/genetics/exam-3)
+{{% resource_link "87a11a60-4039-cc5e-e616-1303df9f2adb" "Exam 3" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Exam (PDF)]({{< baseurl >}}/resources/mit_7_01scf11_exam3)
+{{% resource_link "6feaadb5-9ef8-4248-bdd9-13076194580b" "Exam (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit_7_01scf11_exam3_sol)
+{{% resource_link "6d518508-492c-d5ed-a610-e3c04253aa51" "Solutions (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -758,14 +760,14 @@ USEFUL LINKS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Development of Recombinant DNA]({{< baseurl >}}/pages/recombinant-dna/development-of-recombinant-dna)
+{{% resource_link "80ef79a7-dab2-b9c7-0a69-4b5b5192cc36" "Development of Recombinant DNA" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Overview of Recombinant DNA, Excerpt 1]({{< baseurl >}}/resources/overview-of-recombinant-dna-excerpt-1-1)
+{{% resource_link "9aa01e44-daa2-ef0d-ec0c-2a109287c6b2" "Overview of Recombinant DNA, Excerpt 1" %}}
 
-[Overview of Recombinant DNA, Excerpt 2]({{< baseurl >}}/resources/overview-of-recombinant-dna-excerpt-2-1)
+{{% resource_link "c56a6725-9723-3846-7d17-130c10690661" "Overview of Recombinant DNA, Excerpt 2" %}}
 
 
 {{< tdclose >}}
@@ -786,16 +788,16 @@ None
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Basic Mechanics of Cloning]({{< baseurl >}}/pages/recombinant-dna/basic-mechanics-of-cloning)
+{{% resource_link "48a4a332-6cd9-0d0e-1436-d2c0b4637e30" "Basic Mechanics of Cloning" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Basic Mechanisms of Cloning, Excerpt 1]({{< baseurl >}}/resources/basic-mechanisms-of-cloning-excerpt-1-1)
+{{% resource_link "1acf9d06-c163-72ae-60fe-3de924698c70" "Basic Mechanisms of Cloning, Excerpt 1" %}}
 
-[Basic Mechanisms of Cloning, Excerpt 2]({{< baseurl >}}/resources/basic-mechanisms-of-cloning-excerpt-2-1)
+{{% resource_link "7a8e752d-ff3b-3f7d-87aa-dc1de616ff53" "Basic Mechanisms of Cloning, Excerpt 2" %}}
 
-[Basic Mechanisms of Cloning, Excerpt 3]({{< baseurl >}}/resources/basic-mechanisms-of-cloning-excerpt-3-1)
+{{% resource_link "8c703fa2-9afe-f6a5-c8d6-e57458e6054b" "Basic Mechanisms of Cloning, Excerpt 3" %}}
 
 
 {{< tdclose >}}
@@ -805,9 +807,9 @@ None
 {{< tdopen >}}
 
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit7_01scf11_4-2prob)
+{{% resource_link "250d6996-d430-17c1-f504-7552b2d40f8c" "Problems (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit7_01scf11_4-2sol)
+{{% resource_link "deefeb11-a1f7-69d5-bea1-8e7011bd76a1" "Solutions (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -823,24 +825,24 @@ None
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Constructing and Screening a Recombinant DNA Library]({{< baseurl >}}/pages/recombinant-dna/constructing-and-screening-a-recombinant-dna-library)
+{{% resource_link "52ce97d0-21cf-6f78-01e8-55ec0de2a3aa" "Constructing and Screening a Recombinant DNA Library" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Constructing and Screening a Recombinant DNA Library]({{< baseurl >}}/resources/constructing-and-screening-a-recombinant-dna-library-1)
+{{% resource_link "c9e25ada-2aac-c69f-3062-8693aa409f88" "Constructing and Screening a Recombinant DNA Library" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Genomic and cDNA Libraries]({{< baseurl >}}/resources/genomic-and-cdna-libraries-1)
+{{% resource_link "16848670-bdeb-08d8-3da9-5d746f9e5f21" "Genomic and cDNA Libraries" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit7_01scf11_4-3prob)
+{{% resource_link "2fc40841-6784-9d6d-0ffb-11312ffdb5c5" "Problems (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit7_01scf11_4-3sol)
+{{% resource_link "496c855e-6593-00c1-4db8-e842939ca55d" "Solutions (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -857,20 +859,20 @@ None
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[cDNA Libraries and Expression Libraries]({{< baseurl >}}/pages/recombinant-dna/cdna-libraries-and-expression-libraries)
+{{% resource_link "ea56404f-54a8-7d1d-4cf2-1c7a12786b51" "cDNA Libraries and Expression Libraries" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[cDNA Libraries and Expression Libraries]({{< baseurl >}}/resources/cdna-libraries-and-expression-libraries-1)
+{{% resource_link "435436ae-f1f2-4a74-88fb-51dae26c4238" "cDNA Libraries and Expression Libraries" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Transformation and Protein Expression]({{< baseurl >}}/resources/transformation-and-protein-expression-1)
+{{% resource_link "c7efd960-58f9-debf-c06f-5297d8509e62" "Transformation and Protein Expression" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit7_01scf11_4-4prob)
+{{% resource_link "b18b00b5-2f02-5971-4235-1020c248513b" "Problems (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit7_01scf11_4-4sol)
+{{% resource_link "04ca1357-4f83-a54e-3fd7-4fc5b9cabbc1" "Solutions (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -886,26 +888,26 @@ None
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Agarose Gel Electrophoresis, DNA Sequencing, PCR]({{< baseurl >}}/pages/recombinant-dna/agarose-gel-electrophoresis-dna-sequencing-pcr)
+{{% resource_link "fba42aaa-936f-9894-51b5-9a8798c9d7a0" "Agarose Gel Electrophoresis, DNA Sequencing, PCR" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Agarose Gel Electrophoresis, DNA Sequencing, PCR, Excerpt 1]({{< baseurl >}}/resources/agarose-gel-electrophoresis-dna-sequencing-pcr-excerpt-1-1)
+{{% resource_link "a17ccd77-b720-1718-ae65-68646da48dab" "Agarose Gel Electrophoresis, DNA Sequencing, PCR, Excerpt 1" %}}
 
-[Agarose Gel Electrophoresis, DNA Sequencing, PCR, Excerpt 2]({{< baseurl >}}/resources/agarose-gel-electrophoresis-dna-sequencing-pcr-excerpt-2-1)
+{{% resource_link "124a4ace-b3fa-c91e-b906-d5be33cded74" "Agarose Gel Electrophoresis, DNA Sequencing, PCR, Excerpt 2" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Polymerase Chain Reaction (PCR)]({{< baseurl >}}/resources/polymerase-chain-reaction-pcr-1)
+{{% resource_link "de67290f-dc14-b39b-8096-9b09f2082498" "Polymerase Chain Reaction (PCR)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit7_01scf11_4-5prob)
+{{% resource_link "a174da59-6538-49f9-aee3-896e7acdaaad" "Problems (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit7_01scf11_4-5sol)
+{{% resource_link "26dde39c-71e7-504a-61e2-678c12ea1024" "Solutions (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -942,12 +944,12 @@ EXAM AND SOLUTIONS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Exam 4]({{< baseurl >}}/pages/recombinant-dna/exam-4)
+{{% resource_link "ed024195-afd9-3012-8dae-c1f0592fe634" "Exam 4" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Exam (PDF)]({{< baseurl >}}/resources/mit7_01scf11_exam4)
+{{% resource_link "4163c886-f473-15a7-c233-6ad1d815e40b" "Exam (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit7_01scf11_exam4_sol)
+{{% resource_link "3587be8a-06f4-44db-2f06-9c2f443f1838" "Solutions (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -956,4 +958,4 @@ EXAM AND SOLUTIONS
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/recombinant-dna/exam-4) »
+« {{% resource_link "ed024195-afd9-3012-8dae-c1f0592fe634" "Previous" %}} »
