@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/7-01sc-fundamentals-of-biology-fall-2011/2410ffc20e7963378d1ebf36f46c4f70_sera_thorton2.jpg
+file: /ol-ocw-studio-app/courses/7-01sc-fundamentals-of-biology-fall-2011/2410ffc20e7963378d1ebf36f46c4f70_sera_thorton2.jpg
 file_size: 35288
 file_type: image/jpeg
 image_metadata:
