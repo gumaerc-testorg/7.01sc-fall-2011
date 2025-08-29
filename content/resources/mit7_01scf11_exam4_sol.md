@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains solution to the problem set related to recombinant
   DNA.
 draft: false
-file: /courses/7-01sc-fundamentals-of-biology-fall-2011/3587be8a06f444db2f069c2f443f1838_MIT7_01SCF11_exam4_sol.pdf
+file: /ol-ocw-studio-app/courses/7-01sc-fundamentals-of-biology-fall-2011/3587be8a06f444db2f069c2f443f1838_MIT7_01SCF11_exam4_sol.pdf
 file_size: 297133
 file_type: application/pdf
 image_metadata:

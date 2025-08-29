@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains solution to problem sets related to linkage and
   recombination, genetic maps.
 draft: false
-file: /courses/7-01sc-fundamentals-of-biology-fall-2011/924aa1b004f864ee73b9a1af6fb479b9_MIT7_01SCF11_3.2sol1.pdf
+file: /ol-ocw-studio-app/courses/7-01sc-fundamentals-of-biology-fall-2011/924aa1b004f864ee73b9a1af6fb479b9_MIT7_01SCF11_3.2sol1.pdf
 file_size: 238232
 file_type: application/pdf
 image_metadata:
