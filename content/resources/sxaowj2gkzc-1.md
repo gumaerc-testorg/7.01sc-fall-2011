@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/7-01sc-fundamentals-of-biology-fall-2011/7e6979a0bfbc14c3e450cf8a27d8bd8c_SxaoWJ2gkzc.pdf
+file: /ol-ocw-studio-app/courses/7-01sc-fundamentals-of-biology-fall-2011/7e6979a0bfbc14c3e450cf8a27d8bd8c_SxaoWJ2gkzc.pdf
 file_size: 33268
 file_type: application/pdf
 learning_resource_types: []

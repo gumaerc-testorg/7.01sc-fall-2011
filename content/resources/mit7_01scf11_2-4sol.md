@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains solution to the problem set related to alternative
   approaches to molecular biology.
 draft: false
-file: /courses/7-01sc-fundamentals-of-biology-fall-2011/66339437fecd9fdc19c516705430ed35_MIT7_01SCF11_2.4sol.pdf
+file: /ol-ocw-studio-app/courses/7-01sc-fundamentals-of-biology-fall-2011/66339437fecd9fdc19c516705430ed35_MIT7_01SCF11_2.4sol.pdf
 file_size: 176094
 file_type: application/pdf
 image_metadata:

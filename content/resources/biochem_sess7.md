@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/7-01sc-fundamentals-of-biology-fall-2011/16c91850880759f74d4032586e72e982_Biochem_sess7.jpg
+file: /ol-ocw-studio-app/courses/7-01sc-fundamentals-of-biology-fall-2011/16c91850880759f74d4032586e72e982_Biochem_sess7.jpg
 file_size: 3109
 file_type: image/jpeg
 image_metadata:

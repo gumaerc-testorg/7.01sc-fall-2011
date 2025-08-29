@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains solution to the problem set related to agarose
   gel electrophoresis, DNA sequencing, PCR.
 draft: false
-file: /courses/7-01sc-fundamentals-of-biology-fall-2011/26dde39c71e7504a61e2678c12ea1024_MIT7_01SCF11_4.5sol.pdf
+file: /ol-ocw-studio-app/courses/7-01sc-fundamentals-of-biology-fall-2011/26dde39c71e7504a61e2678c12ea1024_MIT7_01SCF11_4.5sol.pdf
 file_size: 148060
 file_type: application/pdf
 image_metadata:

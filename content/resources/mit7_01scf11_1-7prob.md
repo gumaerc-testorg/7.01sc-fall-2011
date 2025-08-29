@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem set related to chemiosmotic principle,
   photosynthesis.
 draft: false
-file: /courses/7-01sc-fundamentals-of-biology-fall-2011/25f6bf696b75c6ba3f96ad00dfed842b_MIT7_01SCF11_1.7prob.pdf
+file: /ol-ocw-studio-app/courses/7-01sc-fundamentals-of-biology-fall-2011/25f6bf696b75c6ba3f96ad00dfed842b_MIT7_01SCF11_1.7prob.pdf
 file_size: 141976
 file_type: application/pdf
 image_metadata:
