@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains solution to problem set related to types of organisms,
   cell composition.
 draft: false
-file: /courses/7-01sc-fundamentals-of-biology-fall-2011/0cd794261aaf33e3f7921965914829ce_MIT7_01SCF11_1.1sol.pdf
+file: /ol-ocw-studio-app/courses/7-01sc-fundamentals-of-biology-fall-2011/0cd794261aaf33e3f7921965914829ce_MIT7_01SCF11_1.1sol.pdf
 file_size: 142548
 file_type: application/pdf
 image_metadata:

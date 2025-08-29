@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/7-01sc-fundamentals-of-biology-fall-2011/ef37ee447ab5c07afdb516306c932791_Tyler_Jacks.jpg
+file: /ol-ocw-studio-app/courses/7-01sc-fundamentals-of-biology-fall-2011/ef37ee447ab5c07afdb516306c932791_Tyler_Jacks.jpg
 file_size: 16158
 file_type: image/jpeg
 image_metadata:
