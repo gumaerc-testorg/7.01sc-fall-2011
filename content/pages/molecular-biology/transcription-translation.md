@@ -93,11 +93,11 @@ Further Study
 
 ### Useful Links
 
-*   [The Nobel Prize in Physiology or Medicine 1968](http://www.nobelprize.org/nobel_prizes/medicine/laureates/1968/index.html)
-*   [Transcription Animation (Basic)](http://www.dnalc.org/resources/3d/12-transcription-basic.html)
-*   [Transcription Animation (Advanced)](http://www.dnalc.org/resources/3d/13-transcription-advanced.html)
-*   [Translation Animation (Basic)](http://www.dnalc.org/resources/3d/15-translation-basic.html)
-*   [Translation Animation (Advanced)](http://www.dnalc.org/resources/3d/16-translation-advanced.html)
-*   [Triplet Code Animation](http://www.dnalc.org/resources/3d/10-triplet-code.html)
+*   {{% resource_link "02964298-6941-4b22-95b2-3808ae103486" "The Nobel Prize in Physiology or Medicine 1968" %}}
+*   {{% resource_link "2535d692-7892-4264-9a92-90b353eaeb36" "Transcription Animation (Basic)" %}}
+*   {{% resource_link "c6471f20-bbb2-4a36-b1ac-1759a546ceb7" "Transcription Animation (Advanced)" %}}
+*   {{% resource_link "287b5172-7537-4196-818b-64aa9703a4cb" "Translation Animation (Basic)" %}}
+*   {{% resource_link "bb883cb1-ea29-4444-a46c-e86933dd76b7" "Translation Animation (Advanced)" %}}
+*   {{% resource_link "d3024ea4-e7a8-4945-a782-98c4f0226e99" "Triplet Code Animation" %}}
 
 « {{% resource_link "5d6487db-6d13-2ae2-f9e6-285a269f3404" "Previous" %}} | {{% resource_link "6de3012a-82fd-d2a9-25a8-3b85e01dba3d" "Next" %}} »

@@ -81,9 +81,9 @@ Further Study
 
 ### Useful Links
 
-*   [Virtual Genetics Lab](http://vgl.umb.edu/)
-*   [Animal Cell Meiosis](http://www.cellsalive.com/meiosis.htm)
-*   [How Cells Divide](http://www.pbs.org/wgbh/nova/body/how-cells-divide.html)
-*   [Dihybrid Crosses and Linked Genes](http://www.youtube.com/watch?v=1_lTyzGTnho&feature=mfu_in_order&list=UL)
+*   {{% resource_link "5b9d3b4d-f5e3-42f2-916f-563587522892" "Virtual Genetics Lab" %}}
+*   {{% resource_link "710bae42-c9a6-4deb-8160-ed2e6bf43bfd" "Animal Cell Meiosis" %}}
+*   {{% resource_link "b18bc2d2-0ea0-4acf-8d27-54d2683799c6" "How Cells Divide" %}}
+*   {{% resource_link "27a1c9d0-64dd-4a48-a662-6b90668ed5f4" "Dihybrid Crosses and Linked Genes" %}}
 
 « {{% resource_link "17d9f692-5f70-69f8-8155-be10fa8fa862" "Previous" %}} | {{% resource_link "56e5ca78-5a28-8e6c-f93b-a1bb71306c8d" "Next" %}} »

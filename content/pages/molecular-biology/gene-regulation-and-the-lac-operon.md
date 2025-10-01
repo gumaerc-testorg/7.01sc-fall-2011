@@ -82,7 +82,7 @@ Further Study
 
 ### Useful Links
 
-*   [lac operon](http://www.youtube.com/watch?v=iPQZXMKZEfw)
+*   {{% resource_link "20fc50bf-05fc-4b4c-ae85-daccc37af4c9" "lac operon" %}}
 
 ### Study Guides
 

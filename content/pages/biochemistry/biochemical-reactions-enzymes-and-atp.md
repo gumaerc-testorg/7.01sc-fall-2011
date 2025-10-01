@@ -78,8 +78,8 @@ Further Study
 
 ### Useful Links
 
-*   [Introduction to Thermodynamics and Protein Folding](http://www.youtube.com/watch?v=Qq4T7-UrIvE&list=UUzL5_XrNsQAbEKPv-EBSnSg&index=8&feature=plcp)
-*   [Enzyme-Catalyzed Reactions](http://www.youtube.com/watch?v=kSiFdzITPI0&list=UUzL5_XrNsQAbEKPv-EBSnSg&index=7&feature=plcp)
-*   [ATP and Coupled Reactions](http://www.youtube.com/watch?v=4O6DFv2p5js&list=UUzL5_XrNsQAbEKPv-EBSnSg&index=6&feature=plcp)
+*   {{% resource_link "15399bb8-dd9e-478b-b5a5-7b9bf5355855" "Introduction to Thermodynamics and Protein Folding" %}}
+*   {{% resource_link "34e045a9-23ae-46ac-a5d7-ccde8a88a2b1" "Enzyme-Catalyzed Reactions" %}}
+*   {{% resource_link "cc39132b-89fb-498d-aab4-89f147fc8321" "ATP and Coupled Reactions" %}}
 
 « {{% resource_link "480f15d7-bdab-9947-028a-c0770af7091e" "Previous" %}} | {{% resource_link "3998b78c-9a61-3c82-442f-d3aae9f91274" "Next" %}} »

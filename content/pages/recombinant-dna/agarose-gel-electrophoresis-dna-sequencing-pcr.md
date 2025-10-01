@@ -98,9 +98,9 @@ Further Study
 
 ### Useful Links
 
-*   [DNA Sequencing](http://en.wikipedia.org/wiki/DNA_sequencing)
-*   [Jonathan Weissman: DNA Sequencing](http://www.youtube.com/watch?v=8n2LvJ-m0n0)
-*   [Biology Animation Library](http://www.dnalc.org/resources/animations/pcr.html)
-*   [PCR Virtual Lab](http://learn.genetics.utah.edu/content/labs/pcr/)
+*   {{% resource_link "3df755ae-ef51-457e-a38a-69878005506e" "DNA Sequencing" %}}
+*   {{% resource_link "594bb3cb-8195-411e-969d-486f118ae1c8" "Jonathan Weissman: DNA Sequencing" %}}
+*   {{% resource_link "e385911b-388e-4486-b18e-9eac1c859067" "Biology Animation Library" %}}
+*   {{% resource_link "6d0a4dba-c21f-4d3b-9a02-067d9c32b95f" "PCR Virtual Lab" %}}
 
 « {{% resource_link "ea56404f-54a8-7d1d-4cf2-1c7a12786b51" "Previous" %}} | {{% resource_link "ed024195-afd9-3012-8dae-c1f0592fe634" "Next" %}} »

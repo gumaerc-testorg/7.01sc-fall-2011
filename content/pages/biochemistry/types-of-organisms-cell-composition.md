@@ -93,7 +93,7 @@ Further Study
 
 ### Useful Links
 
-*   [Plant, Animal, and Bacteria Cell Models](http://www.cellsalive.com/cells/3dcell.htm)
-*   [Cell Cams](http://www.cellsalive.com/cam0.htm)
+*   {{% resource_link "203e692a-342b-4a2b-a299-37d6adf36554" "Plant, Animal, and Bacteria Cell Models" %}}
+*   {{% resource_link "b959816c-ae20-4160-b742-884e517a578e" "Cell Cams" %}}
 
 « {{% resource_link "59c0ffb4-f444-c63f-f21a-576415d7231d" "Previous" %}} | {{% resource_link "744f8f0d-6a1f-189b-b5d2-07ad8b5cc8f7" "Next" %}} »

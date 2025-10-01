@@ -77,6 +77,6 @@ Further Study
 
 ### Useful Links
 
-*   [History of Genentech](http://www.gene.com/gene/about/corporate/history/)
+*   {{% resource_link "ae1d14d0-8433-42d9-a7a5-27ad3302e6a0" "History of Genentech" %}}
 
 « {{% resource_link "824d49fe-ccb5-9688-5041-e7a7eca1b1fa" "Previous" %}} | {{% resource_link "48a4a332-6cd9-0d0e-1436-d2c0b4637e30" "Next" %}} »

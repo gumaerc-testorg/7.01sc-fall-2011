@@ -206,6 +206,6 @@ Further Study
 
 ### Useful Links
 
-*   [StarGenetics - Mendelian Genetics Virtual Lab](http://web.mit.edu/star/genetics/)
+*   {{% resource_link "42414c52-731f-4986-84a2-a065706ec323" "StarGenetics - Mendelian Genetics Virtual Lab" %}}
 
 « {{% resource_link "2cd32ce3-922b-637b-26b8-13233170eb1c" "Previous" %}} | {{% resource_link "06e0b88b-6715-9f8b-06c3-dbe3474bcaed" "Next" %}} »

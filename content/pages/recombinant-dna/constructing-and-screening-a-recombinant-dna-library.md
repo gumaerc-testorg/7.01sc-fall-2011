@@ -90,8 +90,8 @@ Further Study
 
 ### Useful Links
 
-*   [Mapping and Sequencing the Human Genome](http://www.ornl.gov/sci/techresources/Human_Genome/publicat/primer/prim2.html)
-*   [Construction of a DNA Library](http://www.sumanasinc.com/webcontent/animations/content/dnalibrary.html)
-*   [Library Generation](http://openwetware.org/wiki/Library_Generation)
+*   {{% resource_link "c9c404e0-ee66-4260-bcb2-94afdcf95b07" "Mapping and Sequencing the Human Genome" %}}
+*   {{% resource_link "d502d9d2-6504-47c0-a581-3182fdd6237f" "Construction of a DNA Library" %}}
+*   {{% resource_link "8f236699-93d4-46e8-8bdd-408e4c8dacd2" "Library Generation" %}}
 
 « {{% resource_link "48a4a332-6cd9-0d0e-1436-d2c0b4637e30" "Previous" %}} | {{% resource_link "ea56404f-54a8-7d1d-4cf2-1c7a12786b51" "Next" %}} »
