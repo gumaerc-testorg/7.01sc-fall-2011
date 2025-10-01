@@ -131,7 +131,7 @@ Further Study
 
 ### Useful Links
 
-*   [Cloning in a Plasmid Vector](http://www.youtube.com/watch?v=acKWdNj936o)
-*   [Key Steps of Molecular Cloning](http://www.youtube.com/watch?v=sjwNtQYLKeU&feature=related)
+*   {{% resource_link "eabbee52-c4b2-4e83-ae24-c057c73538bd" "Cloning in a Plasmid Vector" %}}
+*   {{% resource_link "7be52bec-462d-449d-a231-fae3e3c61441" "Key Steps of Molecular Cloning" %}}
 
 « {{% resource_link "80ef79a7-dab2-b9c7-0a69-4b5b5192cc36" "Previous" %}} | {{% resource_link "52ce97d0-21cf-6f78-01e8-55ec0de2a3aa" "Next" %}} »

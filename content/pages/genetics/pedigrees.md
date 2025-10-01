@@ -85,8 +85,8 @@ Further Study
 
 ### Useful Links
 
-*   [Pedigree Analysis, Example 1](http://www.youtube.com/watch?v=HbIHjsn5cHo&feature=mfu_in_order&list=UL)
-*   [Pedigree Analysis, Example 2](http://www.youtube.com/watch?v=ej2hFc8u_zQ&feature=mfu_in_order&list=UL)
-*   [Pedigree Analysis, Example 3](http://www.youtube.com/watch?v=UU3Ou0c9u0U&feature=mfu_in_order&list=UL)
+*   {{% resource_link "b6a79c96-77a6-470c-9d21-4b0b472e8ce7" "Pedigree Analysis, Example 1" %}}
+*   {{% resource_link "75f7b18f-fa33-4e2c-9255-1cb41a26e75d" "Pedigree Analysis, Example 2" %}}
+*   {{% resource_link "ce8990d7-b78a-4563-9952-20cfc17b2bf4" "Pedigree Analysis, Example 3" %}}
 
 « {{% resource_link "06e0b88b-6715-9f8b-06c3-dbe3474bcaed" "Previous" %}} | {{% resource_link "4239d3cb-c2e6-6fa7-9750-7ed884c8c657" "Next" %}} »

@@ -88,10 +88,10 @@ Further Study
 
 ### Useful Links
 
-*   [Telomere Replication](http://www.youtube.com/watch?v=AJNoTmWsE0s)
-*   [Elizabeth Blackburn Part 1: The Roles of Telomeres and Telomerase](http://www.youtube.com/watch?v=5PU_jZwt8KY)
-*   [RNA Splicing—Removing Introns after RNA Transcription](https://www.youtube.com/watch?v=FVuAwBGw_pQ)
-*   [RNA Splicing—An Introduction](http://www.youtube.com/watch?v=qmBtqppU6jY&feature=related)
-*   [HIV / AIDS Replication Animation Video](http://www.youtube.com/watch?v=hdgNnXLY8LU)
+*   {{% resource_link "88ef12a8-03b5-4aca-bc44-4f8494520c2c" "Telomere Replication" %}}
+*   {{% resource_link "3b9eb0fc-c062-4955-bd4f-a5f0276e9a23" "Elizabeth Blackburn Part 1: The Roles of Telomeres and Telomerase" %}}
+*   {{% resource_link "bfbe8df6-a27e-4199-8e28-d979a0ec3aa8" "RNA Splicing—Removing Introns after RNA Transcription" %}}
+*   {{% resource_link "ada52f04-3fc6-483a-b0c4-155a3a3f50e9" "RNA Splicing—An Introduction" %}}
+*   {{% resource_link "820b041c-bdb9-4842-9eac-639d92bc7212" "HIV / AIDS Replication Animation Video" %}}
 
 « {{% resource_link "5e1363df-9828-a8e6-52b1-b90916e83b46" "Previous" %}} | {{% resource_link "b312d8ee-70ad-db9a-2f22-34a16a004e3f" "Next" %}} »

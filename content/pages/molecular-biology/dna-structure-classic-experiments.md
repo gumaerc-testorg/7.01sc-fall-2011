@@ -99,8 +99,8 @@ Further Study
 
 ### Useful Links
 
-*   [Hershey and Chase Experiment](https://www.youtube.com/watch?v=g9JQURwseIY)
-*   [Meselson and Stahl Experiment](https://www.youtube.com/watch?v=JcUQ_TZCG0w)
-*   "[Molecular Structure of Nucleic Acids](http://www.nature.com/physics/looking-back/crick/index.html)" (The original Watson and Crick paper)
+*   {{% resource_link "74112294-e600-4e3e-b8d4-a277b55328c5" "Hershey and Chase Experiment" %}}
+*   {{% resource_link "c5c28778-da2c-4694-b29b-d5200a0fff3a" "Meselson and Stahl Experiment" %}}
+*   "{{% resource_link "519aaa27-ac7c-4f92-a537-e6404091cdd1" "Molecular Structure of Nucleic Acids" %}}" (The original Watson and Crick paper)
 
 « {{% resource_link "0cf8a719-a58b-7f0e-6457-939f9b82d24d" "Previous" %}} | {{% resource_link "5d6487db-6d13-2ae2-f9e6-285a269f3404" "Next" %}} »
