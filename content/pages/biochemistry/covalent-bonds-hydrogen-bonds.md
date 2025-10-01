@@ -72,10 +72,10 @@ Watch the short video of Nicole DeNisco explaining covalent bonds, chirality, el
 
 ### Useful Links
 
-- [20-Second Story about Hydrogen Bonding](http://www.youtube.com/watch?v=LGwyBeuVjhU)
-- [How Geckos Stick](https://blog.nationalgeographic.org/2013/09/12/a-colorful-view-of-incredibly-sticky-feet/)
-- [Hydrophobic Interactions](https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_%28Physical_and_Theoretical_Chemistry%29/Physical_Properties_of_Matter/Atomic_and_Molecular_Properties/Intermolecular_Forces/Hydrophobic_Interactions)
-- [Green Basilisk Lizard](http://animals.nationalgeographic.com/animals/reptiles/green-basilisk-lizard/?source=A-to-Z)
-- [Ice Water and Hot Water movies](http://www.chamotlabs.com/Samples.shtml)
+- {{% resource_link "57feb67c-2919-4dc3-8850-129a62dc6906" "20-Second Story about Hydrogen Bonding" %}}
+- {{% resource_link "6ed46481-a711-47d8-a6b4-c8ae7cce07be" "How Geckos Stick" %}}
+- {{% resource_link "35eb31b6-5e9e-4cbc-8ee3-1bd2640a9e7b" "Hydrophobic Interactions" %}}
+- {{% resource_link "ef9c7278-f211-4709-83ff-caf5df68529b" "Green Basilisk Lizard" %}}
+- {{% resource_link "b21b420d-697e-4718-82a9-177f8141a15c" "Ice Water and Hot Water movies" %}}
 
 « {{% resource_link "bc34ebcb-2d80-7a50-fe34-0b8778b4836e" "Previous" %}} | {{% resource_link "dbb23892-11b1-a4f7-596b-adacfbfc68bf" "Next" %}} »
