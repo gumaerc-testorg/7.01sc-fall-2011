@@ -102,9 +102,9 @@ Further Study
 
 ### Useful Links
 
-*   [StarBiochem 3-D Protein Viewer](http://web.mit.edu/Star/biochem/)
-*   [Protein folding](http://www.youtube.com/watch?v=_xF96sNWnK4&feature=related)
-*   [Primary, Secondary, Tertiary, and Quaternary Structure of Proteins](https://www.youtube.com/watch?v=ki9dwhCwMsI)
-*   [Gecko Locomotion videos](http://www.berkeley.edu/news/media/releases/2002/09/rfull/home.html)
+*   {{% resource_link "17391669-42d3-40fe-b8f6-d499ca8ab091" "StarBiochem 3-D Protein Viewer" %}}
+*   {{% resource_link "9c70dfea-2dc7-4eea-9cd0-50a67dc60a57" "Protein folding" %}}
+*   {{% resource_link "c986f278-52c4-498d-b051-817d64646af6" "Primary, Secondary, Tertiary, and Quaternary Structure of Proteins" %}}
+*   {{% resource_link "e17c0c62-ea7d-4bf4-bfe7-a08c1aa19129" "Gecko Locomotion videos" %}}
 
 « {{% resource_link "dbb23892-11b1-a4f7-596b-adacfbfc68bf" "Previous" %}} | {{% resource_link "bd3cadf9-7b4d-db1e-b647-150dd3af6877" "Next" %}} »

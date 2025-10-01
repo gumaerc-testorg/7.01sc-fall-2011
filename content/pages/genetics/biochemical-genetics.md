@@ -93,7 +93,7 @@ Further Study
 
 ### Useful Links
 
-*   [Complementation Test](http://www.britannica.com/EBchecked/topic/1710056/complementation-test)
-*   [Epistasis: Gene Interaction and Phenotype Effects](http://www.nature.com/scitable/topicpage/epistasis-gene-interaction-and-phenotype-effects-460)
+*   {{% resource_link "8d62650a-2877-4b9d-85e8-c2907e753a89" "Complementation Test" %}}
+*   {{% resource_link "5f5b7cf3-aaf4-46f7-9a33-dcb07b0d8477" "Epistasis: Gene Interaction and Phenotype Effects" %}}
 
 « {{% resource_link "56e5ca78-5a28-8e6c-f93b-a1bb71306c8d" "Previous" %}} | {{% resource_link "87a11a60-4039-cc5e-e616-1303df9f2adb" "Next" %}} »

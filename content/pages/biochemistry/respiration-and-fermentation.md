@@ -75,10 +75,10 @@ Further Study
 
 ### Useful Links
 
-*   [Glycolysis](http://en.wikipedia.org/wiki/Glycolysis)
-*   [Cellular Respiration](http://hyperphysics.phy-astr.gsu.edu/hbase/biology/celres.html)
-*   [How Glycolysis Works](http://highered.mcgraw-hill.com/sites/0072507470/student_view0/chapter25/animation__how_glycolysis_works.html)
-*   ["Cell Respiration" – Cellular Respiration Song](http://www.youtube.com/watch?v=3aZrkdzrd04)
-*   [The ATP Cycle](http://www.youtube.com/watch?v=AhuqXwvFv2E&list=UUE-DexCad-ctXVTE6OhZP8w&index=5&feature=plcp)
+*   {{% resource_link "41dbfb8a-5e14-482d-aa99-4279f669a855" "Glycolysis" %}}
+*   {{% resource_link "0731f9fa-c9e4-4b3b-95bf-ccaeb6bdfe43" "Cellular Respiration" %}}
+*   {{% resource_link "a438a654-b48e-473e-9fdd-3d37ac448b4d" "How Glycolysis Works" %}}
+*   {{% resource_link "91df7a89-d6b0-4d25-8429-d2d9746aeae6" "\"Cell Respiration\" – Cellular Respiration Song" %}}
+*   {{% resource_link "6f5fba0e-40a5-40df-b114-0e0d1853f302" "The ATP Cycle" %}}
 
 « {{% resource_link "bd3cadf9-7b4d-db1e-b647-150dd3af6877" "Previous" %}} | {{% resource_link "21ec09e3-3607-ce4c-8530-a4a4a138a48f" "Next" %}} »

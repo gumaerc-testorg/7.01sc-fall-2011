@@ -42,8 +42,8 @@ None
 
 {{< tdclose >}}{{< tdopen >}}
 
-- [Plant, Animal, and Bacteria Cell Models](http://www.cellsalive.com/cells/3dcell.htm)
-- [Cell Cams](http://www.cellsalive.com/cam0.htm)
+- {{% resource_link "203e692a-342b-4a2b-a299-37d6adf36554" "Plant, Animal, and Bacteria Cell Models" %}}
+- {{% resource_link "b959816c-ae20-4160-b742-884e517a578e" "Cell Cams" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "744f8f0d-6a1f-189b-b5d2-07ad8b5cc8f7" "Covalent Bonds, Hydrogen Bonds" %}}
@@ -63,11 +63,11 @@ None
 
 {{< tdclose >}}{{< tdopen >}}
 
-- [20-Second Story about Hydrogen Bonding](http://www.youtube.com/watch?v=LGwyBeuVjhU)
-- [How Geckos Stick](https://www.sciencedaily.com/releases/2002/08/020828063412.htm)
-- [Hydrophobic Interactions](https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_%28Physical_and_Theoretical_Chemistry%29/Physical_Properties_of_Matter/Atomic_and_Molecular_Properties/Intermolecular_Forces/Hydrophobic_Interactions)
-- [Green Basilisk Lizard](http://animals.nationalgeographic.com/animals/reptiles/green-basilisk-lizard/?source=A-to-Z)
-- [Ice Water and Hot Water movies](http://www.chamotlabs.com/Samples.shtml)
+- {{% resource_link "57feb67c-2919-4dc3-8850-129a62dc6906" "20-Second Story about Hydrogen Bonding" %}}
+- {{% resource_link "4c6aef0b-20c5-434f-8565-459d8b713412" "How Geckos Stick" %}}
+- {{% resource_link "35eb31b6-5e9e-4cbc-8ee3-1bd2640a9e7b" "Hydrophobic Interactions" %}}
+- {{% resource_link "ef9c7278-f211-4709-83ff-caf5df68529b" "Green Basilisk Lizard" %}}
+- {{% resource_link "b21b420d-697e-4718-82a9-177f8141a15c" "Ice Water and Hot Water movies" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "dbb23892-11b1-a4f7-596b-adacfbfc68bf" "Macromolecules: Lipids, Carbohydrates, Nucleic Acid" %}}
@@ -87,12 +87,12 @@ None
 
 {{< tdclose >}}{{< tdopen >}}
 
-- [Phospholipids](http://www.biology-pages.info/P/Phospholipids.html)
-- [Lipids](https://www.youtube.com/watch?v=VGHD9e3yRIU)
-- [Chirality](http://www.nobelprize.org/nobel_prizes/chemistry/laureates/2001/illpres/game.html)
-- [Carbohydrates](http://www.biology-pages.info/C/Carbohydrates.html)
-- [Building Blocks of DNA](https://www.biointeractive.org/classroom-resources/building-blocks-dna#:~:text=This%20animation%20describes%20the%20four,double%20helix%20structure%20of%20DNA.)
-- [Chargaff's Ratio](https://www.biointeractive.org/classroom-resources/chargaffs-ratio)
+- {{% resource_link "dc23711a-ea1b-4aac-8dc1-d66870a80f92" "Phospholipids" %}}
+- {{% resource_link "614bf73a-1fed-45be-9c97-2b0b1836591b" "Lipids" %}}
+- {{% resource_link "33d55235-b9cd-4f4d-b185-75b0ee99b72c" "Chirality" %}}
+- {{% resource_link "cfae8939-fb88-4076-8b73-fbb2d01da288" "Carbohydrates" %}}
+- {{% resource_link "994b25c5-2a12-4b62-8a3f-007e2f3e63bb" "Building Blocks of DNA" %}}
+- {{% resource_link "d1206853-b7eb-4240-bcb0-06b990b2ec67" "Chargaff's Ratio" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "480f15d7-bdab-9947-028a-c0770af7091e" "Proteins, Levels of Structure, Non-Covalent Forces" %}}
@@ -112,10 +112,10 @@ None
 
 {{< tdclose >}}{{< tdopen >}}
 
-- [StarBiochem 3-D Protein Viewer](http://web.mit.edu/Star/biochem/)
-- [Protein folding](http://www.youtube.com/watch?v=_xF96sNWnK4&feature=related)
-- [Primary, Secondary, Tertiary, and Quaternary Structure of Proteins](https://www.youtube.com/watch?v=ki9dwhCwMsI)
-- [Gecko Locomotion videos](http://www.berkeley.edu/news/media/releases/2002/09/rfull/home.html)
+- {{% resource_link "17391669-42d3-40fe-b8f6-d499ca8ab091" "StarBiochem 3-D Protein Viewer" %}}
+- {{% resource_link "9c70dfea-2dc7-4eea-9cd0-50a67dc60a57" "Protein folding" %}}
+- {{% resource_link "c986f278-52c4-498d-b051-817d64646af6" "Primary, Secondary, Tertiary, and Quaternary Structure of Proteins" %}}
+- {{% resource_link "e17c0c62-ea7d-4bf4-bfe7-a08c1aa19129" "Gecko Locomotion videos" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "bd3cadf9-7b4d-db1e-b647-150dd3af6877" "Biochemical Reactions, Enzymes, and ATP" %}}
@@ -131,9 +131,9 @@ None
 
 {{< tdclose >}}{{< tdopen >}}
 
-- [Introduction to Thermodynamics and Protein Folding](http://www.youtube.com/watch?v=Qq4T7-UrIvE&list=UUzL5_XrNsQAbEKPv-EBSnSg&index=8&feature=plcp)
-- [Enzyme-Catalyzed Reactions](http://www.youtube.com/watch?v=kSiFdzITPI0&list=UUzL5_XrNsQAbEKPv-EBSnSg&index=7&feature=plcp)
-- [ATP and Coupled Reactions](http://www.youtube.com/watch?v=4O6DFv2p5js&list=UUzL5_XrNsQAbEKPv-EBSnSg&index=6&feature=plcp)
+- {{% resource_link "15399bb8-dd9e-478b-b5a5-7b9bf5355855" "Introduction to Thermodynamics and Protein Folding" %}}
+- {{% resource_link "34e045a9-23ae-46ac-a5d7-ccde8a88a2b1" "Enzyme-Catalyzed Reactions" %}}
+- {{% resource_link "cc39132b-89fb-498d-aab4-89f147fc8321" "ATP and Coupled Reactions" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "3998b78c-9a61-3c82-442f-d3aae9f91274" "Respiration and Fermentation" %}}
@@ -149,11 +149,11 @@ None
 
 {{< tdclose >}}{{< tdopen >}}
 
-- [Glycolysis](http://en.wikipedia.org/wiki/Glycolysis)
-- [Cellular Respiration](http://hyperphysics.phy-astr.gsu.edu/hbase/biology/celres.html)
-- [How Glycolysis Works](http://highered.mcgraw-hill.com/sites/0072507470/student_view0/chapter25/animation__how_glycolysis_works.html)
-- ["Cell Respiration" – Cellular Respiration Song](http://www.youtube.com/watch?v=3aZrkdzrd04)
-- [The ATP Cycle](http://www.youtube.com/watch?v=AhuqXwvFv2E&list=UUE-DexCad-ctXVTE6OhZP8w&index=5&feature=plcp)
+- {{% resource_link "41dbfb8a-5e14-482d-aa99-4279f669a855" "Glycolysis" %}}
+- {{% resource_link "0731f9fa-c9e4-4b3b-95bf-ccaeb6bdfe43" "Cellular Respiration" %}}
+- {{% resource_link "a438a654-b48e-473e-9fdd-3d37ac448b4d" "How Glycolysis Works" %}}
+- {{% resource_link "91df7a89-d6b0-4d25-8429-d2d9746aeae6" "\"Cell Respiration\" – Cellular Respiration Song" %}}
+- {{% resource_link "6f5fba0e-40a5-40df-b114-0e0d1853f302" "The ATP Cycle" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "21ec09e3-3607-ce4c-8530-a4a4a138a48f" "Chemiosmotic Principle, Photosynthesis" %}}
@@ -169,9 +169,9 @@ None
 
 {{< tdclose >}}{{< tdopen >}}
 
-- [Photosynthesis](http://en.wikipedia.org/wiki/Photosynthesis)
-- [Shedding Light on Photosynthesis](http://www.youtube.com/watch?v=OlzbVr7XEeU&list=UUE-DexCad-ctXVTE6OhZP8w&index=3&feature=plcp)
-- [What is Photosynthesis?](http://www.life.illinois.edu/govindjee/whatisit.htm)
+- {{% resource_link "45a8eb34-6c1f-49fb-b5d4-71e677a3ace8" "Photosynthesis" %}}
+- {{% resource_link "a38f5bb1-0c1e-4567-827a-4b07b0370011" "Shedding Light on Photosynthesis" %}}
+- {{% resource_link "84afed48-7383-4a4a-928f-fa3795bf942c" "What is Photosynthesis?" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
@@ -221,9 +221,9 @@ USEFUL LINKS
 
 {{< tdclose >}}{{< tdopen >}}
 
-- [Hershey and Chase Experiment](https://www.youtube.com/watch?v=g9JQURwseIY)
-- [Meselson and Stahl Experiment](https://www.youtube.com/watch?v=JcUQ_TZCG0w)
-- "[Molecular Structure of Nucleic Acids](http://www.nature.com/physics/looking-back/crick/index.html)" (The original Watson and Crick paper)
+- {{% resource_link "74112294-e600-4e3e-b8d4-a277b55328c5" "Hershey and Chase Experiment" %}}
+- {{% resource_link "c5c28778-da2c-4694-b29b-d5200a0fff3a" "Meselson and Stahl Experiment" %}}
+- "{{% resource_link "519aaa27-ac7c-4f92-a537-e6404091cdd1" "Molecular Structure of Nucleic Acids" %}}" (The original Watson and Crick paper)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "5d6487db-6d13-2ae2-f9e6-285a269f3404" "DNA Replication" %}}
@@ -239,8 +239,8 @@ USEFUL LINKS
 
 {{< tdclose >}}{{< tdopen >}}
 
-- [Replication: Mechanism of Replication (Basic), 3-D Animation Library](http://www.dnalc.org/resources/3d/03-mechanism-of-replication-basic.html)
-- [Replication: Mechanism of Replication (Advanced), 3-D Animation Library](http://www.dnalc.org/resources/3d/04-mechanism-of-replication-advanced.html)
+- {{% resource_link "5c5cebfe-df28-4af6-a5bd-4be54884df09" "Replication: Mechanism of Replication (Basic), 3-D Animation Library" %}}
+- {{% resource_link "704eabea-d458-4b3d-b2bd-edb0c4a021f3" "Replication: Mechanism of Replication (Advanced), 3-D Animation Library" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "5e1363df-9828-a8e6-52b1-b90916e83b46" "Transcription, Translation" %}}
@@ -260,12 +260,12 @@ USEFUL LINKS
 
 {{< tdclose >}}{{< tdopen >}}
 
-- [The Nobel Prize in Physiology or Medicine 1968](http://www.nobelprize.org/nobel_prizes/medicine/laureates/1968/index.html)
-- [Transcription Animation (Basic)](http://www.dnalc.org/resources/3d/12-transcription-basic.html)
-- [Transcription Animation (Advanced)](http://www.dnalc.org/resources/3d/13-transcription-advanced.html)
-- [Translation Animation (Basic)](http://www.dnalc.org/resources/3d/15-translation-basic.html)
-- [Translation Animation (Advanced)](http://www.dnalc.org/resources/3d/16-translation-advanced.html)
-- [Triplet Code Animation](http://www.dnalc.org/resources/3d/10-triplet-code.html)
+- {{% resource_link "02964298-6941-4b22-95b2-3808ae103486" "The Nobel Prize in Physiology or Medicine 1968" %}}
+- {{% resource_link "2535d692-7892-4264-9a92-90b353eaeb36" "Transcription Animation (Basic)" %}}
+- {{% resource_link "c6471f20-bbb2-4a36-b1ac-1759a546ceb7" "Transcription Animation (Advanced)" %}}
+- {{% resource_link "287b5172-7537-4196-818b-64aa9703a4cb" "Translation Animation (Basic)" %}}
+- {{% resource_link "bb883cb1-ea29-4444-a46c-e86933dd76b7" "Translation Animation (Advanced)" %}}
+- {{% resource_link "d3024ea4-e7a8-4945-a782-98c4f0226e99" "Triplet Code Animation" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "6de3012a-82fd-d2a9-25a8-3b85e01dba3d" "Alternative Approaches to Molecular Biology" %}}
@@ -281,11 +281,11 @@ USEFUL LINKS
 
 {{< tdclose >}}{{< tdopen >}}
 
-- [Telomere Replication](http://www.youtube.com/watch?v=AJNoTmWsE0s)
-- [Elizabeth Blackburn Part 1: The Roles of Telomeres and Telomerase](http://www.youtube.com/watch?v=5PU_jZwt8KY)
-- [RNA Splicing—Removing Introns after RNA Transcription](https://www.youtube.com/watch?v=FVuAwBGw_pQ)
-- [RNA Splicing—An Introduction](http://www.youtube.com/watch?v=qmBtqppU6jY&feature=related)
-- [HIV / AIDS Replication Animation Video](http://www.youtube.com/watch?v=hdgNnXLY8LU)
+- {{% resource_link "88ef12a8-03b5-4aca-bc44-4f8494520c2c" "Telomere Replication" %}}
+- {{% resource_link "3b9eb0fc-c062-4955-bd4f-a5f0276e9a23" "Elizabeth Blackburn Part 1: The Roles of Telomeres and Telomerase" %}}
+- {{% resource_link "bfbe8df6-a27e-4199-8e28-d979a0ec3aa8" "RNA Splicing—Removing Introns after RNA Transcription" %}}
+- {{% resource_link "ada52f04-3fc6-483a-b0c4-155a3a3f50e9" "RNA Splicing—An Introduction" %}}
+- {{% resource_link "820b041c-bdb9-4842-9eac-639d92bc7212" "HIV / AIDS Replication Animation Video" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "b312d8ee-70ad-db9a-2f22-34a16a004e3f" "Gene Regulation and the Lac Operon" %}}
@@ -301,7 +301,7 @@ USEFUL LINKS
 
 {{< tdclose >}}{{< tdopen >}}
 
-- [lac operon](http://www.youtube.com/watch?v=iPQZXMKZEfw)
+- {{% resource_link "20fc50bf-05fc-4b4c-ae85-daccc37af4c9" "lac operon" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
@@ -351,7 +351,7 @@ USEFUL LINKS
 
 {{< tdclose >}}{{< tdopen >}}
 
-- [StarGenetics - Mendelian Genetics Virtual Lab](http://web.mit.edu/star/genetics/)
+- {{% resource_link "42414c52-731f-4986-84a2-a065706ec323" "StarGenetics - Mendelian Genetics Virtual Lab" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "06e0b88b-6715-9f8b-06c3-dbe3474bcaed" "Linkage and Recombination, Genetic Maps" %}}
@@ -367,10 +367,10 @@ USEFUL LINKS
 
 {{< tdclose >}}{{< tdopen >}}
 
-- [Virtual Genetics Lab](http://vgl.umb.edu/)
-- [Animal Cell Meiosis](http://www.cellsalive.com/meiosis.htm)
-- [How Cells Divide](http://www.pbs.org/wgbh/nova/body/how-cells-divide.html)
-- [Dihybrid Crosses and Linked Genes](http://www.youtube.com/watch?v=1_lTyzGTnho&feature=mfu_in_order&list=UL)
+- {{% resource_link "5b9d3b4d-f5e3-42f2-916f-563587522892" "Virtual Genetics Lab" %}}
+- {{% resource_link "710bae42-c9a6-4deb-8160-ed2e6bf43bfd" "Animal Cell Meiosis" %}}
+- {{% resource_link "b18bc2d2-0ea0-4acf-8d27-54d2683799c6" "How Cells Divide" %}}
+- {{% resource_link "27a1c9d0-64dd-4a48-a662-6b90668ed5f4" "Dihybrid Crosses and Linked Genes" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "56e5ca78-5a28-8e6c-f93b-a1bb71306c8d" "Pedigrees" %}}
@@ -386,9 +386,9 @@ USEFUL LINKS
 
 {{< tdclose >}}{{< tdopen >}}
 
-- [Pedigree Analysis, Example 1](http://www.youtube.com/watch?v=HbIHjsn5cHo&feature=mfu_in_order&list=UL)
-- [Pedigree Analysis, Example 2](http://www.youtube.com/watch?v=ej2hFc8u_zQ&feature=mfu_in_order&list=UL)
-- [Pedigree Analysis, Example 3](http://www.youtube.com/watch?v=UU3Ou0c9u0U&feature=mfu_in_order&list=UL)
+- {{% resource_link "b6a79c96-77a6-470c-9d21-4b0b472e8ce7" "Pedigree Analysis, Example 1" %}}
+- {{% resource_link "75f7b18f-fa33-4e2c-9255-1cb41a26e75d" "Pedigree Analysis, Example 2" %}}
+- {{% resource_link "ce8990d7-b78a-4563-9952-20cfc17b2bf4" "Pedigree Analysis, Example 3" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "4239d3cb-c2e6-6fa7-9750-7ed884c8c657" "Biochemical Genetics" %}}
@@ -412,8 +412,8 @@ USEFUL LINKS
 
 {{< tdclose >}}{{< tdopen >}}
 
-- [Complementation Test](http://www.britannica.com/EBchecked/topic/1710056/complementation-test)
-- [Epistasis: Gene Interaction and Phenotype Effects](http://www.nature.com/scitable/topicpage/epistasis-gene-interaction-and-phenotype-effects-460)
+- {{% resource_link "8d62650a-2877-4b9d-85e8-c2907e753a89" "Complementation Test" %}}
+- {{% resource_link "5f5b7cf3-aaf4-46f7-9a33-dcb07b0d8477" "Epistasis: Gene Interaction and Phenotype Effects" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
@@ -459,7 +459,7 @@ USEFUL LINKS
 None
 {{< tdclose >}}{{< tdopen >}}
 
-- [History of Genentech](http://www.gene.com/gene/about/corporate/history/)
+- {{% resource_link "ae1d14d0-8433-42d9-a7a5-27ad3302e6a0" "History of Genentech" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "48a4a332-6cd9-0d0e-1436-d2c0b4637e30" "Basic Mechanics of Cloning" %}}
@@ -481,8 +481,8 @@ None
 
 {{< tdclose >}}{{< tdopen >}}
 
-- [Cloning in a Plasmid Vector](http://www.youtube.com/watch?v=acKWdNj936o)
-- [Key Steps of Molecular Cloning](http://www.youtube.com/watch?v=sjwNtQYLKeU&feature=related)
+- {{% resource_link "eabbee52-c4b2-4e83-ae24-c057c73538bd" "Cloning in a Plasmid Vector" %}}
+- {{% resource_link "7be52bec-462d-449d-a231-fae3e3c61441" "Key Steps of Molecular Cloning" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "52ce97d0-21cf-6f78-01e8-55ec0de2a3aa" "Constructing and Screening a Recombinant DNA Library" %}}
@@ -498,9 +498,9 @@ None
 
 {{< tdclose >}}{{< tdopen >}}
 
-- [Mapping and Sequencing the Human Genome](http://www.ornl.gov/sci/techresources/Human_Genome/publicat/primer/prim2.html)
-- [Construction of a DNA Library](http://www.sumanasinc.com/webcontent/animations/content/dnalibrary.html)
-- [Library Generation](http://openwetware.org/wiki/Library_Generation)
+- {{% resource_link "c9c404e0-ee66-4260-bcb2-94afdcf95b07" "Mapping and Sequencing the Human Genome" %}}
+- {{% resource_link "d502d9d2-6504-47c0-a581-3182fdd6237f" "Construction of a DNA Library" %}}
+- {{% resource_link "8f236699-93d4-46e8-8bdd-408e4c8dacd2" "Library Generation" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "ea56404f-54a8-7d1d-4cf2-1c7a12786b51" "cDNA Libraries and Expression Libraries" %}}
@@ -516,8 +516,8 @@ None
 
 {{< tdclose >}}{{< tdopen >}}
 
-- [Isolation and use of cDNA clones](http://www-users.med.cornell.edu/~jawagne/cDNA_cloning.html)
-- [Techniques of Molecular Biology](http://11e.devbio.com/)
+- {{% resource_link "0e453b62-ab2a-4e2f-bc23-a06cb1280b69" "Isolation and use of cDNA clones" %}}
+- {{% resource_link "48ed41df-9f1e-4d3a-9d79-cd6445f11503" "Techniques of Molecular Biology" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "fba42aaa-936f-9894-51b5-9a8798c9d7a0" "Agarose Gel Electrophoresis, DNA Sequencing, PCR" %}}
@@ -537,10 +537,10 @@ None
 
 {{< tdclose >}}{{< tdopen >}}
 
-- [DNA Sequencing](http://en.wikipedia.org/wiki/DNA_sequencing)
-- [Jonathan Weissman: DNA Sequencing](http://www.youtube.com/watch?v=8n2LvJ-m0n0)
-- [Biology Animation Library](http://www.dnalc.org/resources/animations/pcr.html)
-- [PCR Virtual Lab](http://learn.genetics.utah.edu/content/labs/pcr/)
+- {{% resource_link "3df755ae-ef51-457e-a38a-69878005506e" "DNA Sequencing" %}}
+- {{% resource_link "594bb3cb-8195-411e-969d-486f118ae1c8" "Jonathan Weissman: DNA Sequencing" %}}
+- {{% resource_link "e385911b-388e-4486-b18e-9eac1c859067" "Biology Animation Library" %}}
+- {{% resource_link "6d0a4dba-c21f-4d3b-9a02-067d9c32b95f" "PCR Virtual Lab" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 

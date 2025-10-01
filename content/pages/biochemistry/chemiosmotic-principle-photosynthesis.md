@@ -74,8 +74,8 @@ Further Study
 
 ### Useful Links
 
-*   [Photosynthesis](http://en.wikipedia.org/wiki/Photosynthesis)
-*   [Shedding Light on Photosynthesis](http://www.youtube.com/watch?v=OlzbVr7XEeU&list=UUE-DexCad-ctXVTE6OhZP8w&index=3&feature=plcp)
-*   [What is Photosynthesis?](http://www.life.illinois.edu/govindjee/whatisit.htm)
+*   {{% resource_link "45a8eb34-6c1f-49fb-b5d4-71e677a3ace8" "Photosynthesis" %}}
+*   {{% resource_link "a38f5bb1-0c1e-4567-827a-4b07b0370011" "Shedding Light on Photosynthesis" %}}
+*   {{% resource_link "84afed48-7383-4a4a-928f-fa3795bf942c" "What is Photosynthesis?" %}}
 
 « {{% resource_link "3998b78c-9a61-3c82-442f-d3aae9f91274" "Previous" %}} | {{% resource_link "1dea315f-4392-12b8-84ba-e05ff4797b1e" "Next" %}} »

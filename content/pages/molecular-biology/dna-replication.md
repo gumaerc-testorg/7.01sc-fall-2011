@@ -84,7 +84,7 @@ Further Study
 
 ### Useful Links
 
-*   [Replication: Mechanism of Replication (Basic), 3-D Animation Library](http://www.dnalc.org/resources/3d/03-mechanism-of-replication-basic.html)
-*   [Replication: Mechanism of Replication (Advanced), 3-D Animation Library](http://www.dnalc.org/resources/3d/04-mechanism-of-replication-advanced.html)
+*   {{% resource_link "5c5cebfe-df28-4af6-a5bd-4be54884df09" "Replication: Mechanism of Replication (Basic), 3-D Animation Library" %}}
+*   {{% resource_link "704eabea-d458-4b3d-b2bd-edb0c4a021f3" "Replication: Mechanism of Replication (Advanced), 3-D Animation Library" %}}
 
 « {{% resource_link "95026c63-e557-0d98-9ab2-ebdcc99b4dfd" "Previous" %}} | {{% resource_link "5e1363df-9828-a8e6-52b1-b90916e83b46" "Next" %}} »

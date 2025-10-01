@@ -107,11 +107,11 @@ Further Study
 
 ### Useful Links
 
-*   [Phospholipids](http://www.biology-pages.info/P/Phospholipids.html)
-*   [Lipids](https://www.youtube.com/watch?v=VGHD9e3yRIU)
-*   [Chirality](http://www.nobelprize.org/nobel_prizes/chemistry/laureates/2001/illpres/game.html)
-*   [Carbohydrates](http://www.biology-pages.info/C/Carbohydrates.html)
-*   [Building Blocks of DNA](https://www.biointeractive.org/classroom-resources/building-blocks-dna)
-*   [Chargaff's Ratio](https://www.biointeractive.org/classroom-resources/chargaffs-ratio)
+*   {{% resource_link "dc23711a-ea1b-4aac-8dc1-d66870a80f92" "Phospholipids" %}}
+*   {{% resource_link "614bf73a-1fed-45be-9c97-2b0b1836591b" "Lipids" %}}
+*   {{% resource_link "33d55235-b9cd-4f4d-b185-75b0ee99b72c" "Chirality" %}}
+*   {{% resource_link "cfae8939-fb88-4076-8b73-fbb2d01da288" "Carbohydrates" %}}
+*   {{% resource_link "6906d31c-3ec3-4915-856b-a1d15739567d" "Building Blocks of DNA" %}}
+*   {{% resource_link "d1206853-b7eb-4240-bcb0-06b990b2ec67" "Chargaff's Ratio" %}}
 
 « {{% resource_link "744f8f0d-6a1f-189b-b5d2-07ad8b5cc8f7" "Previous" %}} | {{% resource_link "480f15d7-bdab-9947-028a-c0770af7091e" "Next" %}} »

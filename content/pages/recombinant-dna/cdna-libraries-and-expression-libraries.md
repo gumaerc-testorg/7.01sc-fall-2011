@@ -78,7 +78,7 @@ Further Study
 
 ### Useful Links
 
-*   [Isolation and use of cDNA clones](http://www-users.med.cornell.edu/~jawagne/cDNA_cloning.html)
-*   [Techniques of Molecular Biology](https://www.ncbi.nlm.nih.gov/pubmed/8375801)
+*   {{% resource_link "0e453b62-ab2a-4e2f-bc23-a06cb1280b69" "Isolation and use of cDNA clones" %}}
+*   {{% resource_link "ce2b0275-670d-47b7-bce8-ca40a7058323" "Techniques of Molecular Biology" %}}
 
 « {{% resource_link "52ce97d0-21cf-6f78-01e8-55ec0de2a3aa" "Previous" %}} | {{% resource_link "fba42aaa-936f-9894-51b5-9a8798c9d7a0" "Next" %}} »
